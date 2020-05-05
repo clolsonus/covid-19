@@ -1,5 +1,5 @@
-Please visit my FAQ page for an explanation and rational for these
-plots: https://github.com/clolsonus/covid-19/FAQ.md
+Please visit the FAQ page for an explanation and rational for these
+plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
