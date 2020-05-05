@@ -10,7 +10,7 @@ experiment with.
 
 # But we have professional/expert models.
 
-Yes, but sometimes <cough>IHME</cough> they swing wildly from update
+Yes, but sometimes (ahem IHME) they swing wildly from update
 to update, or are already significantly off by the time they are
 upadted.  They have been shown to be terrible predictors or right on,
 but there is no way to know.
