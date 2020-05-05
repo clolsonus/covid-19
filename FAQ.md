@@ -19,7 +19,7 @@ https://towardsdatascience.com/transparency-reproducibility-and-validity-of-covi
 
 # But fitting a straight line is overly simple, what does that tell us?
 
-Yes.  But look at how linear the data is in places.  Tell me you know
+Yes, but look at how linear the data is in places.  Tell me you know
 what function will fit it better.  Will a hot spot flair up and drive
 up the numbers for the next few days?  Will an existing hot spot begin
 burning out and drive the trend downward? Look at how wildly the
@@ -39,8 +39,9 @@ begin or what slope/rate it will follow.
 My intention is not to be political.  At least through April, a linear
 fit was much more realistic than other models being shopped around.
 It wasn't too many weeks ago 5k deaths in the USA seemed completely
-alarmist.  Now in early may we are talking about 100k or maybe more.
-What will the picture look like in June?
+alarmist.  Now in early May we are talking about 100k by the end of
+the summer or maybe a lot more.  What will the picture look like in
+June?
 
 # Why spend the time on this.
 
@@ -48,6 +49,10 @@ I think many of us are obsessed with the situation (early may as I
 write this) and making and updating plots is an outlet.
 
 # Comments?
+
+I would love to hear comments and ideas that are constructive and
+informational.
+
 # Daily plots
 
 See the daily plots:
