@@ -49,6 +49,8 @@ there around May 20 at the current rate.
 
 ## May 3, 2020
 
+A noticable dip in the data for today.
+
 ![map](figures/20200503.png?raw=true "3 May, 2020")
 
 ## May 2, 2020
