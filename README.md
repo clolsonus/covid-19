@@ -10,14 +10,14 @@ experiment with.
 
 # But we have professional/expert models.
 
-Yes, but sometimes (ahem IHME) they swing wildly from update
-to update, or are already significantly off by the time they are
-upadted.  They have been shown to be terrible predictors or right on,
-but there is no way to know.
+Yes, but sometimes (ahem IHME) they swing wildly from update to
+update, or are already significantly off by the time they are updated.
+They have been shown to be terrible predictors or right on, but there
+is no way to know and hard to trust some of their predictions.
 
 https://towardsdatascience.com/transparency-reproducibility-and-validity-of-covid-19-projection-models-78592e029f28
 
-# Fitting a straight line is stupid simple and easy and doesn't account for all the variables.
+# But fitting a straight line is overly simple, what does that tell us?
 
 Yes.  But look at how linear the data is in places.  Tell me you know
 what function will fit it better.  Will a hot spot flair up and drive
