@@ -1,14 +1,7 @@
-# Background
-
-Please visit my FAQ page for an explanation and rational for these plots:
-
-https://github.com/clolsonus/covid-19/FAQ.md
+Please visit my FAQ page for an explanation and rational for these
+plots: https://github.com/clolsonus/covid-19/FAQ.md
 
 # Daily plots
-
-It might be useful to look back and see how well past plots predicted
-today.  Or track the trend of the predictions over time (which could
-be an indicator of the quality of the underlying model fit.)
 
 ## May 4, 2020
 
