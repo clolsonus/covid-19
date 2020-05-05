@@ -33,4 +33,16 @@ line fit will be as stable and useful as anything.
 I think many of us are obsessed with the situation (early may as I
 write this) and making and updating plots is an outlet.
 
+# Daily plots
+
+It might be useful to look back and see how well past plots predicted
+today.  Or track the trend of the predictions over time (which could
+be an indicator of the quality of the underlying model fit.)
+
+## May 4, 2020
+
+The past two days have been down (yeah!)  Let's hope the trend
+continues and breaks the linear fit!  The 100k mark is looming out
+there around May 20 at the current rate.
+
 ![map](figures/20200504.png "4 May, 2020")
