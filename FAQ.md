@@ -28,6 +28,12 @@ think the short term trend is knowable.  If we can't predict (in the
 short term) if the plot is going to turn up or down, then a straight
 line fit will be as stable and useful as anything.
 
+Secondly, a linear fit is actually the best fit through April and at
+least into early May.  When the data trend legitimately diverges from
+a linear fit, it will be easy to spot.  The experts predict an
+exponential fall off, but we currently do not know when that will
+begin or what slope/rate it will follow.
+
 # Why spend the time on this.
 
 I think many of us are obsessed with the situation (early may as I
