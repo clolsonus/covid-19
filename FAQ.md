@@ -34,11 +34,20 @@ a linear fit, it will be easy to spot.  The experts predict an
 exponential fall off, but we currently do not know when that will
 begin or what slope/rate it will follow.
 
+# Your plots are alarmist and scary!
+
+My intention is not to be political.  At least through April, a linear
+fit was much more realistic than other models being shopped around.
+It wasn't too many weeks ago 5k deaths in the USA seemed completely
+alarmist.  Now in early may we are talking about 100k or maybe more.
+What will the picture look like in June?
+
 # Why spend the time on this.
 
 I think many of us are obsessed with the situation (early may as I
 write this) and making and updating plots is an outlet.
 
+# Comments?
 # Daily plots
 
 See the daily plots:
