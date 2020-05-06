@@ -3,6 +3,14 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## May 5, 2020
+
+The past two days have been down (yeah!)  Let's hope the trend
+continues and breaks the linear fit!  The 100k mark is looming out
+there around May 20 at the current rate.
+
+![map](figures/20200505.png?raw=true "5 May, 2020")
+
 ## May 4, 2020
 
 The past two days have been down (yeah!)  Let's hope the trend
