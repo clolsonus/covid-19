@@ -8,7 +8,8 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 UK passes Italy.  Most of the big European countries are coming in
 below the linear prediction, possibly moving towards a logistic
 function being a better fit.  Brazil numbers are taking off.  US pace
-might be dropping slightly, but only slightly.
+might be dropping slightly, but only slightly ... or this could be a
+weekend ebb in reporting.
 
 ![map](figures/20200505.png?raw=true "5 May, 2020")
 
