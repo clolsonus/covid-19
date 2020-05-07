@@ -117,7 +117,7 @@ for iList, regionName in enumerate(regionList):
     print(regionName)
     color = colorList[iList]
     data = dfAll[param][regionName].values
-    data = data[:-10]
+    data = data[:-11]
     date = dfAll[param][regionName].index
     print("len:", len(data))
     print(data[-fit_days:])

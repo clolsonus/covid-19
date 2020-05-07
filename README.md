@@ -68,3 +68,8 @@ on May 9.  Scroll up to May 6 and see that the prediction and progress
 has been spot on (plus/minus 1 day.)
 
 ![plot](figures/20200426.png?raw=true "26 Apr, 2020")
+
+## Sometime in early April (2020) the USA death toll became quite
+   linear, and thus a linear fit/predictor became the best model of
+   our behavior available for near term expecations (at least for the
+   upcoming 7-14 days.)
