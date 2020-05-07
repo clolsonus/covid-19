@@ -3,6 +3,16 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## May 6, 2020
+
+Not much new today, the 100k mark for the USA slips back one day to
+May 20, but the linear pace continues with no clear trend away from
+that.  Professional model estimates have been pushing upwards (a lot)
+in the past few days,finally acknowledging we aren't on a rapid down
+trajetory and no near term end in site.
+
+![map](figures/20200506.png?raw=true "6 May, 2020")
+
 ## May 5, 2020
 
 UK passes Italy.  Most of the big European countries are coming in
