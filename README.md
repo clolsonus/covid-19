@@ -51,7 +51,7 @@ A noticable dip in the data for today.
 
 ## Apr 29, 2020
 
-![map](figures/2020429.png?raw=true "29 Apr, 2020")
+![map](figures/20200429.png?raw=true "29 Apr, 2020")
 
 ## Apr 28, 2020
 
