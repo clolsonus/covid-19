@@ -3,6 +3,13 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## May 7, 2020
+
+For the USA, we continue pretty flat on a pace around 2000 deaths per
+day.  100k mark still looming out there on about May 20.
+
+![plot](figures/20200507.png?raw=true "7 May, 2020")
+
 ## May 6, 2020
 
 Not much new today, the 100k mark for the USA slips back one day to
