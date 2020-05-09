@@ -3,6 +3,12 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## May 8, 2020
+
+For the USA, we stay flat, but trending down very slightly.
+
+![plot](figures/20200508.png?raw=true "8 May, 2020")
+
 ## May 7, 2020
 
 For the USA, we continue pretty flat on a pace around 2000 deaths per
