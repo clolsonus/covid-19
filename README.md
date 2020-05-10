@@ -3,6 +3,12 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## May 9, 2020
+
+USA continues to trend down, but only by the slightest amounts.
+
+![plot](figures/20200508.png?raw=true "9 May, 2020")
+
 ## May 8, 2020
 
 For the USA, we stay flat, but trending down very slightly.
