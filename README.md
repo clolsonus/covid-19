@@ -7,7 +7,7 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 USA continues to trend down, but only by the slightest amounts.
 
-![plot](figures/20200508.png?raw=true "9 May, 2020")
+![plot](figures/20200509.png?raw=true "9 May, 2020")
 
 ## May 8, 2020
 
