@@ -3,17 +3,17 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
-## May 9, 2020
-
-USA continues to trend down, but only by the slightest amounts.
-
-![plot](figures/20200509.png?raw=true "9 May, 2020")
-
 ## May 10, 2020
 
 Today is mothers day in the USA.
 
 ![plot](figures/20200510.png?raw=true "10 May, 2020")
+
+## May 9, 2020
+
+USA continues to trend down, but only by the slightest amounts.
+
+![plot](figures/20200509.png?raw=true "9 May, 2020")
 
 ## May 8, 2020
 
