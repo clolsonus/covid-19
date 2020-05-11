@@ -9,6 +9,12 @@ USA continues to trend down, but only by the slightest amounts.
 
 ![plot](figures/20200509.png?raw=true "9 May, 2020")
 
+## May 10, 2020
+
+Today is mothers day in the USA.
+
+![plot](figures/20200510.png?raw=true "10 May, 2020")
+
 ## May 8, 2020
 
 For the USA, we stay flat, but trending down very slightly.
