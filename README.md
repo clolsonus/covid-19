@@ -3,6 +3,12 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## May 11, 2020
+
+The pace continues to ease slightly in the USA.
+
+![plot](figures/20200511.png?raw=true "11 May, 2020")
+
 ## May 10, 2020
 
 Today is mothers day in the USA.
