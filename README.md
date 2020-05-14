@@ -3,6 +3,10 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## May 13, 2020
+
+![plot](figures/20200513.png?raw=true "13 May, 2020")
+
 ## May 12, 2020
 
 Close to 110k deaths in the USA by the end of May?
