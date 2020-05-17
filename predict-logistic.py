@@ -121,7 +121,7 @@ for iList, regionName in enumerate(regionList):
     dayPred = 14
     dayFit = list(range(min(dayThres) - dayPred, max(dayThres) + dayPred))
 
-    if regionName in ['US']:
+    if regionName in []:
         pFit, pErr = FitPoly(dayThres, dataThres, p0=[0,0,0,0])
         dataFit = [ModelPoly(i, pFit[0], pFit[1], pFit[2], pFit[3]) for i in dayFit]
         
@@ -142,15 +142,15 @@ for iList, regionName in enumerate(regionList):
         print("historic data:")
         print("day, act, fit")
         for i, d in enumerate(dayThres):
-            print(d, dataThres[i], int(round(ModelPoly(d, pFit[0], pFit[1], pFit[2], pFit[3]))))
+            print(d, dataThres[i], int(round(ModelLogistic(d, pFit[0], pFit[1], pFit[2]))))
         print("future fit:")
         for d in range(dayThres[-1]+1, dayThres[-1]+15):
-            print(d, int(round(ModelPoly(d, pFit[0], pFit[1], pFit[2], pFit[3]))))
+            print(d, int(round(ModelLogistic(d, pFit[0], pFit[1], pFit[2]))))
 
         d = dayThres[-1]+7
-        print(" 7 day:", d, int(round(ModelPoly(d, pFit[0], pFit[1], pFit[2], pFit[3]))))
+        print(" 7 day:", d, int(round(ModelLogistic(d, pFit[0], pFit[1], pFit[2]))))
         d = dayThres[-1]+14
-        print("14 day:", d, int(round(ModelPoly(d, pFit[0], pFit[1], pFit[2], pFit[3]))))
+        print("14 day:", d, int(round(ModelLogistic(d, pFit[0], pFit[1], pFit[2]))))
     #%
 #    plt.scatter(day - dayShift, data, color=color, marker='.', label = "Raw Points [" + regionName + "]")
     plt.scatter(dayThres - dayShift, dataThres, color=color, marker='*', label="Points in fit [" + regionName + "]")

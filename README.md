@@ -9,6 +9,9 @@ Two plots today: a linear fit as I have been doing, and a logistic
 fit.  The US numbers have been curving downward very slowly. The
 logistic function fits the existing data better, but still seems to be
 underpredicting the future more than the linear is overpredicting.
+Notice that Brazil is the one country that is still accelerating the
+wrong way (and they have a president that really doesn't think covid
+is a big deal.)
 
 ![linear](figures/20200516.png?raw=true "16 May, 2020")
 ![logistic](figures/20200516-logistic.png?raw=true "16 May, 2020")
