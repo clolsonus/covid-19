@@ -3,6 +3,16 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## May 16, 2020
+
+Two plots today: a linear fit as I have been doing, and a logistic
+fit.  The US numbers have been curving downward very slowly. The
+logistic function fits the existing data better, but still seems to be
+underpredicting the future more than the linear is overpredicting.
+
+![linear](figures/20200516.png?raw=true "16 May, 2020")
+![logistic](figures/20200516-logistic.png?raw=true "16 May, 2020")
+
 ## May 15, 2020
 
 ![plot](figures/20200515.png?raw=true "15 May, 2020")
