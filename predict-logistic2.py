@@ -191,14 +191,22 @@ for iList, regionName in enumerate(regionList):
 
         cdt = dt + timedelta(days=len(data)-99)
 
-        # x = len(data) - 8.5
-        # y = func(x)
-        # plt.annotate("Rate: %s deaths/day" % format(int(round(fit[0])), ',d'),
-        #              xy=(x, y), xytext=(x-1, y+10000), xycoords='data',
-        #              arrowprops=dict(facecolor='black', shrink=0.05),
-        #              horizontalalignment='right', verticalalignment='top')
+        # most recent day
         plt.annotate(cdt.strftime("%d %b %Y") + ": %s" % format(data[-1], ',d'), xy=(len(data)-1, data[-1]),
                      xytext=(len(data)-2, data[-1]+5000), xycoords='data',
+                     arrowprops=dict(facecolor='black', shrink=0.05),
+                     horizontalalignment='right', verticalalignment='top')
+        
+        # estiamte current rate (from fit function)
+        x2 = len(data)
+        y2 = ModelLogistic(x2, pFit[0], pFit[1], pFit[2])
+        x1 = x2 - 1
+        y1 = ModelLogistic(x1, pFit[0], pFit[1], pFit[2])
+        rate = y2 - y1
+        x = len(data) - 1.5
+        y = ModelLogistic(x, pFit[0], pFit[1], pFit[2])
+        plt.annotate("Rate: %s deaths/day" % format(int(round(rate)), ',d'),
+                     xy=(x, y), xytext=(x+0.5, y-10000), xycoords='data',
                      arrowprops=dict(facecolor='black', shrink=0.05),
                      horizontalalignment='right', verticalalignment='top')
         
@@ -217,21 +225,25 @@ for iList, regionName in enumerate(regionList):
                      arrowprops=dict(facecolor='black', shrink=0.05),
                      horizontalalignment='right', verticalalignment='top')
 
-        current = int(data[-1] / 10000)*10000 + 10000
-        # while current <= pred_14:
-        #     print(current)
-        #     # inverse linear solver
-        #     x = (current - fit[1]) / fit[0]
-        #     cdt = dt + timedelta(days=x+1-98)
-        #     text = cdt.strftime("%d %b %Y")
-        #     text += ": %s" % format(current, ',d')
-        #     plt.annotate(text,
-        #                  xy=(x, current),
-        #                  xytext=(x+1, current-5000), xycoords='data',
-        #                  arrowprops=dict(facecolor='black', shrink=0.05),
-        #                  horizontalalignment='left', verticalalignment='top')
-        #                      
-        #    current += 10000
+        # use an approximation technique that should work for any function
+        x = len(data) - 1
+        last = int(data[-1] / 10000)*10000
+        while x < len(data) + 14:
+            pred = int(round(ModelLogistic(x, pFit[0], pFit[1], pFit[2])))
+            pred_10k = int(pred/10000)*10000
+            # print(x, pred, pred_10k, last)
+            
+            if pred_10k > last:
+                last = pred_10k
+                cdt = dt + timedelta(days=x+1-98)
+                text = cdt.strftime("%d %b %Y")
+                text += ": %s" % format(pred_10k, ',d')
+                plt.annotate(text,
+                             xy=(x, pred_10k),
+                             xytext=(x+0.5, pred_10k-10000), xycoords='data',
+                             arrowprops=dict(facecolor='black', shrink=0.05),
+                             horizontalalignment='left', verticalalignment='top')
+            x += 0.01
         
         
     #%
