@@ -5,9 +5,8 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 ## May 16, 2020
 
-Notice that Brazil is the a country that is still accelerating the
-wrong way (and they have a president that really doesn't think covid
-is a big deal.)
+Notice that Brazil is still accelerating the wrong way (and they have
+a president that really doesn't think covid is a big deal.)
 
 ![poly](figures/20200516.png?raw=true "16 May, 2020")
 
