@@ -3,6 +3,10 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## May 17, 2020
+
+![poly](figures/20200517.png?raw=true "17 May, 2020")
+
 ## May 16, 2020
 
 Notice that Brazil is still accelerating the wrong way (and they have
