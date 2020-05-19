@@ -3,6 +3,14 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## May 18, 2020
+
+Daily rate continues to drop in the USA, now close to 1300/day.  100k
+mark is pushed back to May 26. Brazil will hit the 20k mark near May
+21.
+
+![poly](figures/20200518.png?raw=true "18 May, 2020")
+
 ## May 17, 2020
 
 ![poly](figures/20200517.png?raw=true "17 May, 2020")
