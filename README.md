@@ -17,7 +17,10 @@ USA continues to it's glacial slowdown.
 
 Daily rate continues to drop in the USA, now close to 1300/day.  100k
 mark is pushed back to May 26. Brazil will hit the 20k mark near May
-21.
+21.  Looking off the end of the plot, Brazil is roughly on pace to
+pass all countries other than the USA in 20 days (before mid-June.)
+Wouldn't it be a sad irony if the two of the countries with leaders
+that took covid-19 the least seriously, ended up with the most deaths?
 
 ![poly](figures/20200518.png?raw=true "18 May, 2020")
 
