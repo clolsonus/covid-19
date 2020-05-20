@@ -3,13 +3,15 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
-## May 18, 2020
+## May 19, 2020
 
-Daily rate continues to drop in the USA, now close to 1300/day.  100k
-mark is pushed back to May 26. Brazil will hit the 20k mark near May
-21.
+Replaced Belgium (few new deaths) with Mexico (accelerating upwards.)
+Mexico is on pace to exceed Iran's total number of deaths within a
+week.
 
-![poly](figures/20200518.png?raw=true "18 May, 2020")
+USA continues to it's glacial slowdown.
+
+![poly](figures/20200519.png?raw=true "19 May, 2020")
 
 ## May 17, 2020
 
