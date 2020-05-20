@@ -11,16 +11,18 @@ week.
 
 USA continues to it's glacial slowdown.
 
+Looking off the end of the plot, Brazil is roughly on pace to pass all
+countries other than the USA in 20 days (before mid-June.)  Wouldn't
+it be a sad irony if the two of the countries with leaders that took
+covid-19 the least seriously, ended up with the most deaths?
+
 ![poly](figures/20200519.png?raw=true "19 May, 2020")
 
 ## May 18, 2020
 
 Daily rate continues to drop in the USA, now close to 1300/day.  100k
 mark is pushed back to May 26. Brazil will hit the 20k mark near May
-21.  Looking off the end of the plot, Brazil is roughly on pace to
-pass all countries other than the USA in 20 days (before mid-June.)
-Wouldn't it be a sad irony if the two of the countries with leaders
-that took covid-19 the least seriously, ended up with the most deaths?
+21.
 
 ![poly](figures/20200518.png?raw=true "18 May, 2020")
 
