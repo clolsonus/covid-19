@@ -3,6 +3,16 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## May 20, 2020
+
+USA fit/project remains largely unchanged.  100k on May 26.  110k near
+June 6.
+
+Brazil is on pace to pass 20k deaths by May 22 and their rates are
+accelerating and will soon be at a faster rate than the US.
+
+![poly](figures/20200520.png?raw=true "20 May, 2020")
+
 ## May 19, 2020
 
 Replaced Belgium (few new deaths) with Mexico (accelerating upwards.)
