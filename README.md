@@ -3,6 +3,16 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## May 21, 2020
+
+USA fit/project remains largely unchanged.  100k still on May 26.  110k around
+June 7.
+
+Brazil hit 20k deaths a day earlier than predicted and is on pace to
+move into 2nd overall place in about 16 days.
+
+![poly](figures/20200521.png?raw=true "21 May, 2020")
+
 ## May 20, 2020
 
 USA fit/project remains largely unchanged.  100k on May 26.  110k near
@@ -10,6 +20,8 @@ June 6.
 
 Brazil is on pace to pass 20k deaths by May 22 and their rates are
 accelerating and will soon be at a faster rate than the US.
+
+Mexico on pace to pass Iran in total deaths by May 24.
 
 ![poly](figures/20200520.png?raw=true "20 May, 2020")
 
