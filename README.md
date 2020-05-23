@@ -3,10 +3,20 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## May 22, 2020
+
+USA fit/projection remains largely unchanged.  100k still on May 26.
+110k around June 7.
+
+Brazil and Mexico ... Brazil is really close to overtaking USA's
+pace. :(
+
+![poly](figures/20200522.png?raw=true "22 May, 2020")
+
 ## May 21, 2020
 
-USA fit/projection remains largely unchanged.  100k still on May 26.  110k around
-June 7.
+USA fit/projection remains largely unchanged.  100k still on May 26.
+110k around June 7.
 
 Brazil hit 20k deaths a day earlier than predicted and is on pace to
 move into 2nd overall place in about 16 days.
