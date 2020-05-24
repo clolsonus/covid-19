@@ -3,6 +3,12 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## May 23, 2020
+
+No major changes in the trends.
+
+![poly](figures/20200523.png?raw=true "23 May, 2020")
+
 ## May 22, 2020
 
 USA fit/projection remains largely unchanged.  100k still on May 26.
