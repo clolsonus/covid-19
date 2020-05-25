@@ -3,9 +3,19 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## May 24, 2020
+
+Brazil's daily rate just passed the USA's and is still accelerating.
+Brazil is about 6 days away from overtaking France and Spain and about
+14 days from moving to 2nd place overall.  Mexico passes Iran sometime
+early tomorrow.  For the USA, the 100k mark pushed back to May 27,
+110k on June 10.
+
+![poly](figures/20200524.png?raw=true "24 May, 2020")
+
 ## May 23, 2020
 
-No major changes in the trends.
+No major changes in the trends. 110k pushed back to June 9.
 
 ![poly](figures/20200523.png?raw=true "23 May, 2020")
 
