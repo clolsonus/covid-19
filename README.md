@@ -3,6 +3,20 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## May 25, 2020
+
+Changed to a 35 day fit and 21 day predict ahead to see how it looks.
+Brazil's daily rate is almost even with the USA's.  Mexico passes Iran
+in total deaths.  USA is realistically about a day and a half away
+from 100k (May 27.)  Brazil is now about 5 days away from overtaking
+France and Spain. and about 13 days from moving to 2nd place overall.
+USA reaches 110k about June 7 (this target moved because of the change
+in fit range from 28 to 35 days moved the fit line a bit.)  Both
+Brazil and USA over 1000 deaths per day still.  The US is very slowly
+declining, but Brazil is still accelerating.
+
+![poly](figures/20200525.png?raw=true "25 May, 2020")
+
 ## May 24, 2020
 
 Brazil's daily rate just passed the USA's and is still accelerating.
