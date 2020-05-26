@@ -17,6 +17,8 @@ from scipy.optimize import curve_fit
 import matplotlib.pyplot as plt
 
 ap = argparse.ArgumentParser(description="Fit a polynomial to data and plot")
+ap.add_argument('--fit-days', type=int, default=35, help='Number of previous days to include in the fit.')
+ap.add_argument('--predict-days', type=int, default=21, help='Number of days to predict into the future.')
 ap.add_argument('--degree', type=int, default=2, help='Degree of polynomial.')
 args = ap.parse_args()
 
@@ -53,8 +55,6 @@ dfRecovered = countrydata(cleandata(dfRecoveredRaw),'Cases','Recovered')
 
 dfAll = pd.merge(dfConfirmed, dfDeath,how='left',left_index=True,right_index=True)
 dfAll = pd.merge(dfAll, dfRecovered,how='left',left_index=True,right_index=True)
-
-#dfAll['Deaths']['Belgium'].tail()
 
 #%% Fit models
 def ModelLogistic(x,a,b,c):
@@ -95,14 +95,14 @@ def gen_func( coeffs, min, max, steps ):
     return xvals, yvals
 
 #%%
-regionList = ['Belgium', 'Italy', 'Spain', 'US', 'France', 'United Kingdom', 'Iran', 'Brazil']
+regionList = ['Mexico', 'Italy', 'Spain', 'US', 'France', 'United Kingdom', 'Iran', 'Brazil']
 colorList = ['blue', 'red', 'magenta', 'green', 'orange', 'purple', 'gray', 'black']
 param = 'Deaths' # Deaths, Confirmed, Recovered
 
 plt.figure()
 
-fit_days = 28
-pred_days = 14
+#fit_days = 28
+#pred_days = 14
 
 dt = parser.parse("April 29, 2020") # day index = 98
 
@@ -113,15 +113,24 @@ for iList, regionName in enumerate(regionList):
     #data = data[:-1]
     date = dfAll[param][regionName].index
     print("len:", len(data))
-    print(data[-fit_days:])
-    days = list(range(len(data)-fit_days, len(data)))
+    print(data[-args.fit_days:])
+    days = list(range(len(data)-args.fit_days, len(data)))
     
-    fit, res, _, _, _ = np.polyfit( days, data[-fit_days:], args.degree, full=True )
+    fit, res, _, _, _ = np.polyfit( days, data[-args.fit_days:], args.degree, full=True )
+    func = np.poly1d(fit)
     print("fit:", fit)
     print("res:", res)
-    xvals, yvals = gen_func(fit, days[0], days[-1]+pred_days, 100)
-    plt.scatter(days, data[-fit_days:], color=color, marker='*', label="Points in fit [" + regionName + "]")
-    plt.plot(xvals, yvals, color=color, label="Fit [" + regionName + "]")
+    xvals, yvals = gen_func(fit, days[0], days[-1]+args.predict_days, 100)
+    
+    # estiamte current rate (from fit function)
+    x2 = len(data)
+    y2 = func(x2)
+    x1 = x2 - 1
+    y1 = func(x1)
+    rate = int(round(y2 - y1))
+    
+    plt.scatter(days, data[-args.fit_days:], color=color, marker='*', label="Points in fit [" + regionName + "]")
+    plt.plot(xvals, yvals, color=color, label="Fit " + regionName + " (%d/day)" % rate)
 
     # if param in ['Confirmed']:
     #     dataStart = 5e3
@@ -163,15 +172,14 @@ for iList, regionName in enumerate(regionList):
         #print(dayShift)
         print("historic data:")
         print("day, act, fit")
-        func = np.poly1d(fit)
         #err = []
-        for d in range(len(data)-fit_days, len(data)):
+        for d in range(len(data)-args.fit_days, len(data)):
             print(d, data[d], int(round(func(d))))
             #err.append(data[d] - int(round(func(d))))
         #print("fit errors, mean:", np.mean(err))
         #print("fit errors, std:", np.std(err))
         print("future fit:")
-        for d in range(len(data), len(data) + pred_days):
+        for d in range(len(data), len(data) + args.predict_days):
             print(d, int(round(func(d))))
 
         cdt = dt + timedelta(days=len(data)-99)
@@ -182,12 +190,7 @@ for iList, regionName in enumerate(regionList):
                      arrowprops=dict(facecolor='black', shrink=0.05),
                      horizontalalignment='right', verticalalignment='top')
 
-        # estiamte current rate (from fit function)
-        x2 = len(data)
-        y2 = func(x2)
-        x1 = x2 - 1
-        y1 = func(x1)
-        rate = y2 - y1
+        # annotate rate for US
         x = len(data) - 1.5
         y = func(x)
         plt.annotate("Rate: %s deaths/day" % format(int(round(rate)), ',d'),
@@ -213,7 +216,7 @@ for iList, regionName in enumerate(regionList):
         # use an approximation technique that should work for any function
         x = len(data) - 1
         last = int(data[-1] / 10000)*10000
-        while x < len(data) + 14:
+        while x < len(data) + (args.predict_days*5):
             pred = int(round(func(x)))
             pred_10k = int(pred/10000)*10000
             # print(x, pred, pred_10k, last)
@@ -223,11 +226,13 @@ for iList, regionName in enumerate(regionList):
                 cdt = dt + timedelta(days=x+1-98)
                 text = cdt.strftime("%d %b %Y")
                 text += ": %s" % format(pred_10k, ',d')
-                plt.annotate(text,
-                             xy=(x, pred_10k),
-                             xytext=(x+0.5, pred_10k-10000), xycoords='data',
-                             arrowprops=dict(facecolor='black', shrink=0.05),
-                             horizontalalignment='left', verticalalignment='top')
+                print(text)
+                if x < len(data) + args.predict_days:
+                    plt.annotate(text,
+                                 xy=(x, pred_10k),
+                                 xytext=(x+0.5, pred_10k-10000), xycoords='data',
+                                 arrowprops=dict(facecolor='black', shrink=0.05),
+                                 horizontalalignment='left', verticalalignment='top')
             x += 0.01
         
         
@@ -243,6 +248,6 @@ plt.grid('on')
 plt.legend()
 plt.title("Data source: Johns Hopkins CSSE (https://github.com/CSSEGISandData/COVID-19)")
 plt.ylabel("Total Deaths (per country)")
-plt.xlabel("Last %d days fit, %d days predict ahead (Polynomial degree: %d)" % (fit_days, pred_days, args.degree))
+plt.xlabel("Last %d days fit, %d days predict ahead (Polynomial degree: %d)" % (args.fit_days, args.predict_days, args.degree))
 
 plt.show()
