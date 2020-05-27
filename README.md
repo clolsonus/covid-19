@@ -14,6 +14,13 @@ plateau again in June and begin to ramp up in July.  With everyone
 getting weary of social distancing and with memorial day activities
 and summer here, this is not an implausible prediction.
 
+Note on Spain's daily death rate in the plot.  It appears they have
+revised their totals downward, and they were pretty level before that.
+So the fit function actually is dropping.  This is an artifact in the
+data and blindly fitting a polynomial to that data.  I'm just going to
+let it roll on and over time the fit and estimates should correct
+themselves.
+
 ![poly](figures/20200526.png?raw=true "26 May, 2020")
 
 ## May 25, 2020
