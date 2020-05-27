@@ -5,14 +5,14 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 ## May 26, 2020
 
-The USA has a copule of light days (great!) but if you look at the
-data there is a weekly ebb and flow, but the overall trend stays
-pretty consistent.  USA daily death rate (based on the fit line)
-finally drops below 1000/day.  Brazil is now solidly above 1000/day
-and still accelerating.  Some future plots suggest the USA death rate
-will plateau again in June and begin to ramp up in July.  With
-everyone getting weary of social distancing and with memorial day
-activities and summer here, this is not an implausible predition.
+The USA has a copule of light days (great!)  If you look at the data
+there is a weekly ebb and flow, but the overall trend stays pretty
+consistent.  USA daily death rate (based on the fit line) finally
+drops below 1000/day.  Brazil is now solidly above 1000/day and still
+accelerating.  Some future plots suggest the USA death rate will
+plateau again in June and begin to ramp up in July.  With everyone
+getting weary of social distancing and with memorial day activities
+and summer here, this is not an implausible predition.
 
 ![poly](figures/20200526.png?raw=true "26 May, 2020")
 
