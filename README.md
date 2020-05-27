@@ -5,14 +5,14 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 ## May 26, 2020
 
-The USA has a copule of light days (great!)  If you look at the data
+The USA has a couple of light days (great!)  If you look at the data
 there is a weekly ebb and flow, but the overall trend stays pretty
 consistent.  USA daily death rate (based on the fit line) finally
 drops below 1000/day.  Brazil is now solidly above 1000/day and still
 accelerating.  Some future plots suggest the USA death rate will
 plateau again in June and begin to ramp up in July.  With everyone
 getting weary of social distancing and with memorial day activities
-and summer here, this is not an implausible predition.
+and summer here, this is not an implausible prediction.
 
 ![poly](figures/20200526.png?raw=true "26 May, 2020")
 
@@ -176,7 +176,7 @@ predictive results are better than a logistic function.
 Note this new fit pushes the 100k mark out beyond the end of the
 graph.  Professional model estimates have been pushing upwards (a lot)
 in the past few days,finally acknowledging the USA as a whole is not
-on a rapid down trajetory and no near term end is in site.
+on a rapid down trajectory and no near term end is in site.
 
 ![poly](figures/20200506.png?raw=true "6 May, 2020")
 
@@ -200,7 +200,7 @@ there around May 20 at the current rate.
 
 ## May 3, 2020
 
-A noticable dip in the data for today.
+A noticeable dip in the data for today.
 
 ![linear](figures/20200503.png?raw=true "3 May, 2020")
 
@@ -236,4 +236,4 @@ has been spot on (plus/minus 1 day.)
 
 ![linear](figures/20200426.png?raw=true "26 Apr, 2020")
 
-## Sometime in early April (2020) the USA death toll became quite linear, and thus a linear fit/predictor became the best model of our behavior available for near term expecations (at least for the upcoming 7-14 days.)
+## Sometime in early April (2020) the USA death toll became quite linear, and thus a linear fit/predictor became the best model of our behavior available for near term expectations (at least for the upcoming 7-14 days.)
