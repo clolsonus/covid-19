@@ -3,16 +3,25 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## May 27, 2020
+
+The USA passes 100k deaths today, estimating 110k by June 10.  Brazil
+is on pace to pass France in 3 days and take over 2nd place in 11
+days.  Brazil and Mexico still accelerating upwards.
+
+![poly](figures/20200527.png?raw=true "27 May, 2020")
+
 ## May 26, 2020
 
-The USA has a couple of light days (great!)  If you look at the data
-there is a weekly ebb and flow, but the overall trend stays pretty
-consistent.  USA daily death rate (based on the fit line) finally
-drops below 1000/day.  Brazil is now solidly above 1000/day and still
-accelerating.  Some future models suggest the USA death rate will
-plateau again in June and begin to ramp up in July.  With everyone
-getting weary of social distancing and with memorial day activities
-and summer here, this is not an implausible prediction.
+The USA has a couple of light days pushing the trend line lower than
+expected.  If you look at the data there is a weekly ebb and flow, but
+the overall trend changes slowly.  Visually the fit line is still a
+good match with the data points.  USA daily death rate (based on the
+fit line) finally drops below 1000/day.  Brazil is now solidly above
+1000/day and still accelerating.  Some future models suggest the USA
+death rate will plateau again in June and begin to ramp up in July.
+With everyone getting weary of social distancing and with memorial day
+activities and summer here, this is not an implausible prediction.
 
 Note on Spain's daily death rate in the plot.  It appears they have
 revised their totals downward, and they were pretty level before that.
