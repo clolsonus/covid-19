@@ -3,6 +3,14 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## May 28, 2020
+
+Brazil is on pace to pass Spain tomorrow and France the next day.  The
+USA seems to be consistently coming in slightly lower than the models
+are predicting which is hopeful.
+
+![poly](figures/20200528.png?raw=true "28 May, 2020")
+
 ## May 27, 2020
 
 The USA passes 100k deaths today, estimating 110k by June 10.  Brazil
