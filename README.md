@@ -3,6 +3,12 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## May 29, 2020
+
+Brazil passes Spain in total deaths and is likely to pass France tomorrow.
+
+![poly](figures/20200529.png?raw=true "29 May, 2020")
+
 ## May 28, 2020
 
 Brazil is on pace to pass Spain tomorrow and France the next day.  The
