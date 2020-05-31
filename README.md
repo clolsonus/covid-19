@@ -3,6 +3,13 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## May 30, 2020
+
+Brazil passes France in total deaths and is on pace to pass Italy in 4
+days.  USA reaches 110k around June 10 still.
+
+![poly](figures/20200530.png?raw=true "30 May, 2020")
+
 ## May 29, 2020
 
 Brazil passes Spain in total deaths and is likely to pass France tomorrow.
