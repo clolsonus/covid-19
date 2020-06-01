@@ -3,6 +3,14 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## May 31, 2020
+
+All the trajectories continue without too much change.  Sunday and
+Monday evenings usually have the data coming in a bit lighter than the
+rest of the week.
+
+![poly](figures/20200531.png?raw=true "31 May, 2020")
+
 ## May 30, 2020
 
 Brazil passes France in total deaths and is on pace to pass Italy in 4
