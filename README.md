@@ -3,6 +3,14 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## June 1, 2020
+
+All the trajectories continue without too much change.  Sunday and
+Monday evenings usually have the data coming in a bit lighter than the
+rest of the week.
+
+![poly](figures/20200601.png?raw=true "1 June, 2020")
+
 ## May 31, 2020
 
 All the trajectories continue without too much change.  Sunday and
