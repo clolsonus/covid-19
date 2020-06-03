@@ -3,6 +3,13 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## June 2, 2020
+
+Trends continue without too much change.  USA 110k mark possibly
+closer to June 9.
+
+![poly](figures/20200602.png?raw=true "2 June, 2020")
+
 ## June 1, 2020
 
 All the trajectories continue without too much change.  Sunday and
