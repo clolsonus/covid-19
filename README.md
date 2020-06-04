@@ -3,6 +3,14 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## June 3, 2020
+
+Trends continue without too much change.  USA 110k mark around June 9.
+Brazil is one day from passing Italy and 7 days from passing the UK
+for 2nd over all place in total deaths.
+
+![poly](figures/20200603.png?raw=true "3 June, 2020")
+
 ## June 2, 2020
 
 Trends continue without too much change.  USA 110k mark possibly
