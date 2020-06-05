@@ -3,6 +3,14 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## June 4, 2020
+
+Trends continue without too much change.  USA 110k mark around June 8
+(moved up 2 days from the prediction a few days ago.).  Brazil passes
+Italy and is now 3rd place overall for deaths.
+
+![poly](figures/20200604.png?raw=true "4 June, 2020")
+
 ## June 3, 2020
 
 Trends continue without too much change.  USA 110k mark around June 9.
