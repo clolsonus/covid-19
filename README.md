@@ -3,6 +3,15 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## June 5, 2020
+
+Brazil apparently did not report any deaths today, so there is noise
+in the data which is why we fit a function to get the longer term
+trends.  USA will probably pass 110k late June 6 or early June 7
+despite the fit line putting this mark at June 8.
+
+![poly](figures/20200605.png?raw=true "5 June, 2020")
+
 ## June 4, 2020
 
 Trends continue without too much change.  USA 110k mark around June 8
