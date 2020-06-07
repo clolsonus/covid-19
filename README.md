@@ -9,11 +9,12 @@ I shortened the number of fit days from 35->21 to be able to track
 current trends better and not be biased as much by older data.  (There
 are tradeoffs of course.)
 
-The USA will pass the 110k mark early tomorrow. (We are likely already
-way past this mark due to the lag in reporting and confirming.)  The
-120k mark comes into view for the US somewhere around June 22.
-Brozil's data for yesterday was corrected and is on pace to pass the
-UK in about 6 days.
+The USA will officially pass the 110k mark early tomorrow. (We are
+likely already way past this mark due to the lag in reporting and
+confirming.)  The 120k mark comes into view for the US somewhere
+around June 22.  Brozil's data for yesterday was corrected and is on
+pace to pass the UK in about 6 days.  Mexico and Brazil are still
+accelerating upwards.
 
 ![poly](figures/20200606.png?raw=true "6 June, 2020")
 
