@@ -3,6 +3,20 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## June 6, 2020
+
+I shortened the number of fit days from 35->21 to be able to track
+current trends better and not be biased as much by older data.  (There
+are tradeoffs of course.)
+
+The USA will pass the 110k mark early tomorrow. (We are likely already
+way past this mark due to the lag in reporting and confirming.)  The
+120k mark comes into view for the US somewhere around June 22.
+Brozil's data for yesterday was corrected and is on pace to pass the
+UK in about 6 days.
+
+![poly](figures/20200606.png?raw=true "6 June, 2020")
+
 ## June 5, 2020
 
 Brazil apparently did not report any deaths today, so there is noise
