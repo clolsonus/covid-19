@@ -3,6 +3,14 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## June 7, 2020
+
+The USA officially passes the 110k mark today.  The 120k mark is
+coming in about 14 days, on or around June 21.  Mexico and Brazil are
+still accelerating upwards.
+
+![poly](figures/20200607.png?raw=true "7 June, 2020")
+
 ## June 6, 2020
 
 I shortened the number of fit days from 35->21 to be able to track
