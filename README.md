@@ -3,6 +3,12 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## June 8, 2020
+
+Brazil is still on pace to overtake the UK in about 5 days.
+
+![poly](figures/20200608.png?raw=true "8 June, 2020")
+
 ## June 7, 2020
 
 The USA officially passes the 110k mark today.  The 120k mark is
