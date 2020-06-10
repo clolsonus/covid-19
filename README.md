@@ -7,7 +7,7 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 Brazil is still running over 1000 deaths per day and is on pace to hit
 the 40k mark in 2 days, overtakes the UK for 2nd place overall on
-about June 13.  USA still on pace to hit 120k around June 21.
+about June 13.  USA on pace to hit 120k around June 20.
 
 ![poly](figures/20200609.png?raw=true "9 June, 2020")
 
