@@ -3,6 +3,12 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## June 10, 2020
+
+Overall trends and predictions unchanged.
+
+![poly](figures/20200610.png?raw=true "10 June, 2020")
+
 ## June 9, 2020
 
 Brazil is still running over 1000 deaths per day and is on pace to hit
