@@ -3,6 +3,14 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## June 11, 2020
+
+Removed Iran which is not seeing many new deaths and replaced with
+India (316/day).  Brazil (1055/day) passed the 40k mark and will
+overtake the UK for 2nd place in total deaths today.
+
+![poly](figures/20200611.png?raw=true "11 June, 2020")
+
 ## June 10, 2020
 
 Overall trends and predictions unchanged.
