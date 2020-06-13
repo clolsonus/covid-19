@@ -3,6 +3,13 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## June 12, 2020
+
+Brazil officially passes the UK and is now it 2nd place overall for
+total deaths.  STill on a pace of over 1000 deaths per day.
+
+![poly](figures/20200612.png?raw=true "12 June, 2020")
+
 ## June 11, 2020
 
 Removed Iran which is not seeing many new deaths and replaced with
