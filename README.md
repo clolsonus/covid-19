@@ -3,6 +3,14 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## June 13, 2020
+
+Mexico will hit the 20k death mark in 5 days.  Brazil is still over
+1000 deaths / day.  Usa pace continues to diminish, but very slowly.
+120k mark pushed out a day to June 21.
+
+![poly](figures/20200613.png?raw=true "13 June, 2020")
+
 ## June 12, 2020
 
 Brazil officially passes the UK and is now it 2nd place overall for
