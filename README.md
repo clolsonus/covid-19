@@ -3,6 +3,13 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## June 15, 2020
+
+Mexico's daily death rate (604) is now higher than the USA's (590.)
+Brazil continues to be above 1000 (1060/day.)
+
+![poly](figures/20200615.png?raw=true "15 June, 2020")
+
 ## June 14, 2020
 
 Brazil is still over 1000 deaths/day, 50k mark in 6 days, 60k mark in
