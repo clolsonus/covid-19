@@ -3,6 +3,13 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## June 16, 2020
+
+The USA 120k mark is bumped up another day to June 22.
+Brazil continues to be above 1000 (1060/day.)
+
+![poly](figures/20200616.png?raw=true "16 June, 2020")
+
 ## June 15, 2020
 
 Mexico's daily death rate (604) is now higher than the USA's (590.)
