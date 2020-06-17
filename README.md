@@ -5,8 +5,12 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 ## June 16, 2020
 
-The USA 120k mark is bumped up another day to June 22.
-Brazil continues to be above 1000 (1060/day.)
+The USA 120k mark is bumped up another day to June 22.  Brazil
+continues to be above 1000, but the trajectory is flattening.  Perhaps
+they are approaching the peak of their first wave.  Models are
+predicting that the USA death rate will flatten or bump up slightly in
+late June into July/Aug, but so far the rate is slowly dropping each
+day.
 
 ![poly](figures/20200616.png?raw=true "16 June, 2020")
 
