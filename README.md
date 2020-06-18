@@ -3,11 +3,18 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## June 17, 2020
+
+Mexico is on pace to hit 20k deaths in 2 days.  The USA daily death
+rate seems to be leveling out at just under 600/day.
+
+![poly](figures/20200617.png?raw=true "17 June, 2020")
+
 ## June 16, 2020
 
 The USA 120k mark is bumped up another day to June 22.  Brazil
-continues to be above 1000, but the trajectory is flattening.  Perhaps
-they are approaching the peak of their first wave.  Models are
+continues to be above 1000/day, but the trajectory is flattening.
+Perhaps they are approaching the peak of their first wave.  Models are
 predicting that the USA death rate will flatten or bump up slightly in
 late June into July/Aug, but so far the rate is slowly dropping each
 day.
