@@ -3,13 +3,22 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## June 19, 2020
+
+USA's deaths per day continues to edge down a little lower than models
+predict, but still well above 500/day.  Brazil, Mexico, and India
+still on very concerning traacks (other countries too, but these are
+the ones I've chosen to plot for now.)
+
+![poly](figures/20200619.png?raw=true "19 June, 2020")
+
 ## June 18, 2020
 
 India is on pace to reach 20k deaths in 14 days, Mexico is on pace to
 hit 20k deaths tomorrow.  Brazil will reach 50k in 3 days and 60k in
 12 days.
 
-![poly](figures/20200617.png?raw=true "18 June, 2020")
+![poly](figures/20200618.png?raw=true "18 June, 2020")
 
 ## June 17, 2020
 
