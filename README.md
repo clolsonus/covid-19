@@ -3,6 +3,15 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## June 20, 2020
+
+USA will hit the 120k mark tomorrow on the 21st.  India (568/day),
+Mexico (627/day), and Brazil (1033/day) are all running at higher
+daily rates than the USA now (549/day).  Brazil will hit the 50k mark
+tomorrow, and the 60k mark in 10 days.
+
+![poly](figures/20200620.png?raw=true "20 June, 2020")
+
 ## June 19, 2020
 
 USA's deaths per day continues to edge down a little lower than models
