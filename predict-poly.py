@@ -95,7 +95,7 @@ def gen_func( coeffs, min, max, steps ):
     return xvals, yvals
 
 #%%
-regionList = ['Mexico', 'Italy', 'Spain', 'US', 'France', 'United Kingdom', 'Iran', 'Brazil']
+regionList = ['Mexico', 'Italy', 'Spain', 'US', 'France', 'United Kingdom', 'India', 'Brazil']
 colorList = ['blue', 'red', 'magenta', 'green', 'orange', 'purple', 'gray', 'black']
 param = 'Deaths' # Deaths, Confirmed, Recovered
 
@@ -123,7 +123,7 @@ for iList, regionName in enumerate(regionList):
     xvals, yvals = gen_func(fit, days[0], days[-1]+args.predict_days, 100)
     
     # estiamte current rate (from fit function)
-    x2 = len(data)
+    x2 = len(data)-1
     y2 = func(x2)
     x1 = x2 - 1
     y1 = func(x1)
@@ -171,16 +171,18 @@ for iList, regionName in enumerate(regionList):
         #print(dayThres)
         #print(dayShift)
         print("historic data:")
-        print("day, act, fit")
+        print("day, act, fit (rate)")
         #err = []
         for d in range(len(data)-args.fit_days, len(data)):
-            print(d, data[d], int(round(func(d))))
+            rate = int(round(func(d) - func(d-1)))
+            print(d, data[d], int(round(func(d))), rate)
             #err.append(data[d] - int(round(func(d))))
         #print("fit errors, mean:", np.mean(err))
         #print("fit errors, std:", np.std(err))
         print("future fit:")
         for d in range(len(data), len(data) + args.predict_days):
-            print(d, int(round(func(d))))
+            rate = int(round(func(d) - func(d-1)))
+            print(d, int(round(func(d))), rate)
 
         cdt = dt + timedelta(days=len(data)-99)
 
@@ -212,6 +214,13 @@ for iList, regionName in enumerate(regionList):
                      xytext=(d-1, pred_14+5000), xycoords='data',
                      arrowprops=dict(facecolor='black', shrink=0.05),
                      horizontalalignment='right', verticalalignment='top')
+        # d = len(data) - 1 + 21
+        # pred_21 = int(round(func(d)))
+        # print(" 21 day:", d, pred_21)
+        # plt.annotate("21 day: %s" % format(pred_21, ',d'), xy=(d, pred_21),
+        #              xytext=(d-1, pred_21+5000), xycoords='data',
+        #              arrowprops=dict(facecolor='black', shrink=0.05),
+        #              horizontalalignment='right', verticalalignment='top')
 
         # use an approximation technique that should work for any function
         x = len(data) - 1

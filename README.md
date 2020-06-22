@@ -3,6 +3,14 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## June 21, 2020
+
+USA's daily rate continues to drop (533/day) but Sun/Mon are usually
+lightly reported days so the true trend will be more clear Tuesday and
+later in the week.  India and Mexico continue to increase their rates.  Brazil is currently pretty flat.
+
+![poly](figures/20200621.png?raw=true "21 June, 2020")
+
 ## June 20, 2020
 
 USA will hit the 120k mark tomorrow on the 21st.  India (568/day),
