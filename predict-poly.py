@@ -193,6 +193,8 @@ for iList, regionName in enumerate(regionList):
                      horizontalalignment='right', verticalalignment='top')
 
         # annotate rate for US
+        d = len(data) - 1
+        rate = int(round(func(d) - func(d-1)))
         x = len(data) - 1.5
         y = func(x)
         plt.annotate("Rate: %s deaths/day" % format(int(round(rate)), ',d'),
