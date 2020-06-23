@@ -3,6 +3,10 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## June 22, 2020
+
+![poly](figures/20200622.png?raw=true "22 June, 2020")
+
 ## June 21, 2020
 
 USA's daily rate continues to drop (533/day) but Sun/Mon are usually
