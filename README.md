@@ -3,6 +3,10 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## June 24, 2020
+
+![poly](figures/20200624.png?raw=true "24 June, 2020")
+
 ## June 23, 2020
 
 ![poly](figures/20200623.png?raw=true "23 June, 2020")
