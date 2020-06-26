@@ -3,6 +3,14 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## June 25, 2020
+
+Big jump is USA deaths today (probably as cases are reviewed?)  Brazil
+will hit 60k deaths in 5 days.  Predicting the USA hits the 130k mark
+on July 12.
+
+![poly](figures/20200625.png?raw=true "25 June, 2020")
+
 ## June 24, 2020
 
 ![poly](figures/20200624.png?raw=true "24 June, 2020")
