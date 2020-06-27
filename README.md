@@ -39,7 +39,12 @@ fast as the fit line predicts.
 
 ## June 21, 2020
 
-USA's daily rate continues to drop (533/day) but Sun/Mon are usually
+Note: I found a small issue with the reported current daily rate.  The
+past numbers reported were the estimate for the next day, not the
+current day ... sort of you classic off-by-one issue.  This is fixed
+today and in future plots.
+
+USA's daily rate continues to drop (551/day) but Sun/Mon are usually
 lightly reported days so the true trend will be more clear Tuesday and
 later in the week.  India and Mexico continue to increase their rates.  Brazil is currently pretty flat.
 
