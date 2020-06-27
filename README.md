@@ -7,8 +7,8 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 The USA passes the 125k mark and is on pace fro 130k around July 9.
 (The prediction/fit is changing quite a bit right now due to the
-discontinueity in data introduced by New Jersey.) Mexico will pass
-France and Spain in total deaths in about 4 days.
+discontinueity in data introduced by New Jersey's data revisions.)
+Mexico will pass France and Spain in total deaths in about 4 days.
 
 ![poly](figures/20200626.png?raw=true "26 June, 2020")
 
