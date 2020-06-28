@@ -5,9 +5,9 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 ## June 27, 2020
 
-The USA 130k mark is bumped up two days to near July 7.  This is in
-part to the NJ data revision, and possibly a leveling out of the death
-rate. The USA daily death rate is revised up to 606/day.
+The USA 130k mark is bumped closer by two days to near July 7.  This
+is in part to the NJ data revision, and possibly a leveling out of the
+death rate. The USA daily death rate is revised back up to 606/day.
 
 Mexico will pass France and Spain in total deaths in about 4 days.
 
