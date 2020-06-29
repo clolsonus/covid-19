@@ -3,6 +3,10 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## June 28, 2020
+
+![poly](figures/20200629.png?raw=true "28 June, 2020")
+
 ## June 27, 2020
 
 The USA 130k mark is bumped closer by two days to near July 7.  This
