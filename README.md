@@ -5,7 +5,7 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 ## June 28, 2020
 
-![poly](figures/20200629.png?raw=true "28 June, 2020")
+![poly](figures/20200628.png?raw=true "28 June, 2020")
 
 ## June 27, 2020
 
