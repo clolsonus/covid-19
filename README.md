@@ -3,6 +3,15 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## June 29, 2020
+
+USA 130k mark bumped closer one day to July 6.  Brazil on pace to hit
+60k deaths in 2 days, 70k in 11 days, 80k in 20 days.  Mexico on pace
+to pass Spain in total deaths in 2 days, Franc in 3 dyas, Italy in 9
+days.  India will hit the 20k mark in about 5 days.
+
+![poly](figures/20200629.png?raw=true "29 June, 2020")
+
 ## June 28, 2020
 
 ![poly](figures/20200628.png?raw=true "28 June, 2020")
