@@ -3,6 +3,15 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily plots
 
+## June 30, 2020
+
+USA 130k mark bumped closer one more day to July 5.  USA shows signs
+of a leveling death rate (models predicted this and also that the
+death rate will rise somewhat in July->Aug.)  Tomoroww, Brazil will
+hit 60k deaths and Mexico will pass Spain in total deaths.
+
+![poly](figures/20200630.png?raw=true "30 June, 2020")
+
 ## June 29, 2020
 
 USA 130k mark bumped closer one day to July 6.  Brazil on pace to hit
