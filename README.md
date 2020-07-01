@@ -1,13 +1,12 @@
 Please visit the FAQ page for an explanation and rational for these
 plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
-
-# Daily plots
+ plots
 
 ## June 30, 2020
 
 USA 130k mark bumped closer one more day to July 5.  USA shows signs
 of a leveling death rate (models predicted this and also that the
-death rate will rise somewhat in July->Aug.)  Tomoroww, Brazil will
+death rate will rise somewhat in July->Aug.)  Tomorrow, Brazil will
 hit 60k deaths and Mexico will pass Spain in total deaths.
 
 ![poly](figures/20200630.png?raw=true "30 June, 2020")
@@ -39,7 +38,7 @@ Mexico will pass France and Spain in total deaths in about 4 days.
 
 The USA passes the 125k mark and is on pace for 130k around July 9.
 (The prediction/fit is changing quite a bit right now due to the
-discontinueity in data introduced by New Jersey's data revisions.)
+discontinuity in data introduced by New Jersey's data revisions.)
 Mexico will pass France and Spain in total deaths in about 4 days.
 
 ![poly](figures/20200626.png?raw=true "26 June, 2020")
@@ -95,7 +94,7 @@ tomorrow, and the 60k mark in 10 days.
 
 USA's deaths per day continues to edge down a little lower than models
 predict, but still well above 500/day.  Brazil, Mexico, and India
-still on very concerning traacks (other countries too, but these are
+still on very concerning tracks (other countries too, but these are
 the ones I've chosen to plot for now.)
 
 ![poly](figures/20200619.png?raw=true "19 June, 2020")
@@ -154,7 +153,7 @@ slowing.  120k mark bumped down again to June 24.
 ## June 12, 2020
 
 Brazil officially passes the UK and is now it 2nd place overall for
-total deaths.  STill on a pace of over 1000 deaths per day.  USA's
+total deaths.  Still on a pace of over 1000 deaths per day.  USA's
 120k prediction bumped up to June 25.
 
 ![poly](figures/20200612.png?raw=true "12 June, 2020")
@@ -189,7 +188,7 @@ Brazil is still on pace to overtake the UK in about 5 days.
 
 ## June 7, 2020
 
-The 120k mark is still out beyond the 14-day lookahead.  Mexico and
+The 120k mark is still out beyond the 14-day look ahead.  Mexico and
 Brazil are still accelerating upwards.
 
 ![poly](figures/20200607.png?raw=true "7 June, 2020")
@@ -197,7 +196,7 @@ Brazil are still accelerating upwards.
 ## June 6, 2020
 
 The USA officially passed the 110k mark today in back-corrected data.
-Brozil's data for yesterday was corrected and is on pace to pass the
+Brazil's data for yesterday was corrected and is on pace to pass the
 UK in about 6 days.  Mexico and Brazil are still accelerating upwards.
 
 ![poly](figures/20200606.png?raw=true "6 June, 2020")
