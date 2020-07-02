@@ -2,6 +2,15 @@ Please visit the FAQ page for an explanation and rational for these
 plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
  plots
 
+## July 1, 2020
+
+The 28 day fit shows USA death rates starting to rise, but the 35 day
+fit still shows a slight decline.  We are on the cusp of going the
+wrong way with deaths/day I believe.  Mexico will pass France in total
+deaths in 2 days and Italy in 8 days.
+
+![poly](figures/20200701.png?raw=true "1 July, 2020")
+
 ## June 30, 2020
 
 USA 130k mark bumped closer one more day to July 5.  USA shows signs
