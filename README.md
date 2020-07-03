@@ -4,9 +4,12 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 ## July 2, 2020
 
-For the USA, we may reach the 130k mark closer to the 4th of July.
-140k sooner by 1 day, now on July 21.  Brazil is on pace to reach 70k
-in 9 days.  India will reach 20k deaths in 3 days.
+For the USA, as our death rate contineus to flatten (or even start to
+rise), we may reach the 130k mark closer to the 4th of July.  (This
+could get pushed back to the 5th if reporting rates slow over the
+holiday weekend.) We'll see 140k sooner by 1 day, now on July 21.
+Brazil is on pace to reach 70k in 9 days.  India will reach 20k deaths
+in 3 days.
 
 ![poly](figures/20200702.png?raw=true "2 July, 2020")
 
