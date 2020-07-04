@@ -4,7 +4,7 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 ## July 3, 2020
 
-USA death rate still on the cusp of swithing to an upward trend.
+USA death rate still on the cusp of switching to an upward trend.
 Yesterday's fit rate: 653, today: 656 (even though the over all 35 day
 fit trend is slightly down, 28 day fit is still up.)  Good chance of
 reaching 130k deaths on the 4th.  The 140k mark bumps up yet another
@@ -16,7 +16,7 @@ Brazil's daily rate dips below 1000.
 
 ## July 2, 2020
 
-For the USA, as our death rate contineus to flatten (or even start to
+For the USA, as our death rate continues to flatten (or even start to
 rise), we may reach the 130k mark closer to the 4th of July.  (This
 could get pushed back to the 5th if reporting rates slow over the
 holiday weekend.) We'll see 140k sooner by 1 day, now on July 21.
