@@ -94,6 +94,16 @@ def gen_func( coeffs, min, max, steps ):
         yvals.append(y)
     return xvals, yvals
 
+def derivative(fit, x):
+    #print(fit.shape)
+    fitd = np.zeros(fit.shape[0] - 1)
+    size = fitd.shape[0]
+    for i in range(size):
+        fitd[i] = fit[i]*(size-i)
+    #print(fit, fitd)
+    funcd = np.poly1d(fitd)
+    return int(round(funcd(x)))
+
 #%%
 regionList = ['Mexico', 'Italy', 'Spain', 'US', 'France', 'United Kingdom', 'India', 'Brazil']
 colorList = ['blue', 'red', 'magenta', 'green', 'orange', 'purple', 'gray', 'black']
@@ -121,13 +131,9 @@ for iList, regionName in enumerate(regionList):
     print("fit:", fit)
     print("res:", res)
     xvals, yvals = gen_func(fit, days[0], days[-1]+args.predict_days, 100)
-    
-    # estiamte current rate (from fit function)
-    x2 = len(data)-1
-    y2 = func(x2)
-    x1 = x2 - 1
-    y1 = func(x1)
-    rate = int(round(y2 - y1))
+
+    # derive current rate (differentiate fit function)
+    rate = derivative(fit, len(data)-1)
     
     plt.scatter(days, data[-args.fit_days:], color=color, marker='*', label="Points in fit [" + regionName + "]")
     plt.plot(xvals, yvals, color=color, label="Fit " + regionName + " (%d/day)" % rate)
@@ -174,14 +180,14 @@ for iList, regionName in enumerate(regionList):
         print("day, act, fit (rate)")
         #err = []
         for d in range(len(data)-args.fit_days, len(data)):
-            rate = int(round(func(d) - func(d-1)))
+            rate = derivative(fit, d)
             print(d, data[d], int(round(func(d))), rate)
             #err.append(data[d] - int(round(func(d))))
         #print("fit errors, mean:", np.mean(err))
         #print("fit errors, std:", np.std(err))
         print("future fit:")
         for d in range(len(data), len(data) + args.predict_days):
-            rate = int(round(func(d) - func(d-1)))
+            rate = derivative(fit, d)
             print(d, int(round(func(d))), rate)
 
         cdt = dt + timedelta(days=len(data)-99)
@@ -194,7 +200,7 @@ for iList, regionName in enumerate(regionList):
 
         # annotate rate for US
         d = len(data) - 1
-        rate = int(round(func(d) - func(d-1)))
+        rate = derivative(fit, d)
         x = len(data) - 1.5
         y = func(x)
         plt.annotate("Rate: %s deaths/day" % format(int(round(rate)), ',d'),
