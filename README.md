@@ -2,6 +2,18 @@ Please visit the FAQ page for an explanation and rational for these
 plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
  plots
 
+## July 3, 2020
+
+USA death rate still on the cusp of swithing to an upward trend.
+Yesterday's fit rate: 653, today: 656 (even though the over all 35 day
+fit trend is slightly down, 28 day fit is still up.)  Good chance of
+reaching 130k deaths on the 4th.  The 140k mark bumps up yet another
+day to July 20.  150k around Aug 7 (maybe sooner if the upwards trend
+continues.)  Mexico should pass France in total deaths tomorrow.
+Brazil's daily rate dips below 1000.
+
+![poly](figures/20200703.png?raw=true "3 July, 2020")
+
 ## July 2, 2020
 
 For the USA, as our death rate contineus to flatten (or even start to
