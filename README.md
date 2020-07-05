@@ -10,7 +10,7 @@ as well, so expect artificially small numbers 3 days in a row (maybe?)
 Brazil still flat and back to just over 1000 deaths/day. Mexico on
 pace to pass Spain in 6 days.
 
-![poly](figures/20200703.png?raw=true "4 July, 2020")
+![poly](figures/20200704.png?raw=true "4 July, 2020")
 
 ## July 3, 2020
 
