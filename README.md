@@ -2,6 +2,16 @@ Please visit the FAQ page for an explanation and rational for these
 plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
  plots
 
+## July 4, 2020
+
+USA has a light reporting day (possibly good news, or possibly due to
+the 4th holiday.)  Sunday and Monday are typically low reporting days
+as well, so expect artificially small numbers 3 days in a row (maybe?)
+Brazil still flat and back to just aover 1000 deaths/day. Mexico on
+pace to pass Spain in 6 days.
+
+![poly](figures/20200703.png?raw=true "3 July, 2020")
+
 ## July 3, 2020
 
 USA death rate still on the cusp of switching to an upward trend.
