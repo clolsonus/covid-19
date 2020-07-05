@@ -7,10 +7,10 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 USA has a light reporting day (possibly good news, or possibly due to
 the 4th holiday.)  Sunday and Monday are typically low reporting days
 as well, so expect artificially small numbers 3 days in a row (maybe?)
-Brazil still flat and back to just aover 1000 deaths/day. Mexico on
+Brazil still flat and back to just over 1000 deaths/day. Mexico on
 pace to pass Spain in 6 days.
 
-![poly](figures/20200703.png?raw=true "3 July, 2020")
+![poly](figures/20200703.png?raw=true "4 July, 2020")
 
 ## July 3, 2020
 
