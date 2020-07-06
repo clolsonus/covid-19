@@ -2,6 +2,10 @@ Please visit the FAQ page for an explanation and rational for these
 plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
  plots
 
+## July 5, 2020
+
+![poly](figures/20200705.png?raw=true "5 July, 2020")
+
 ## July 4, 2020
 
 USA has a light reporting day (possibly good news, or possibly due to
