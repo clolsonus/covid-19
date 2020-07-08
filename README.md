@@ -6,9 +6,12 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 The USA is on pace to reach 140k deaths by July 22, 150k by Aug 10.
 The fit for USA suggests we a are still on a very slow downward trend,
-but this is the week to keep watching.  Brazil on pace to reach 75k
-deaths in 10 days, still on a very flat trajectory.  Mexico is on pace
-to pass Italy in 4 days, still trending up each new day.
+but this is the week to keep watching.  The states reporting the most
+deaths right now are many of the ones that were showing spikes in the
+total number of cases in the past few weeks: IL, CA, TX, AZ, FL ...
+Brazil on pace to reach 75k deaths in 10 days, still on a very flat
+trajectory.  Mexico is on pace to pass Italy in 4 days, still trending
+up each new day.
 
 ![poly](figures/20200707.png?raw=true "7 July, 2020")
 
