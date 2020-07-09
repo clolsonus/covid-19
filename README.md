@@ -2,6 +2,13 @@ Please visit the FAQ page for an explanation and rational for these
 plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
  plots
 
+## July 8, 2020
+
+The USA is still on a pace of over 600 deaths per day.  Brazil still
+over 1000 deaths per day.  Mexico around 700 deaths per day.
+
+![poly](figures/20200708.png?raw=true "8 July, 2020")
+
 ## July 7, 2020
 
 The USA is on pace to reach 140k deaths by July 22, 150k by Aug 10.
