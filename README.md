@@ -2,6 +2,12 @@ Please visit the FAQ page for an explanation and rational for these
 plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
  plots
 
+## July 9, 2020
+
+The USA 140k mark moves up one day to July 21.
+
+![poly](figures/20200709.png?raw=true "9 July, 2020")
+
 ## July 8, 2020
 
 The USA is still on a pace of over 600 deaths per day.  Brazil still
