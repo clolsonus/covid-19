@@ -2,6 +2,15 @@ Please visit the FAQ page for an explanation and rational for these
 plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
  plots
 
+## July 10, 2020
+
+Brazil passes the 70k mark, still over 1000 deaths/day which has been
+largely unchanged for quite a while now.  Mexico is likely to pass
+Spain in total deaths tomorrow and will hit 40k deaths in about 9
+days.
+
+![poly](figures/20200710.png?raw=true "10 July, 2020")
+
 ## July 9, 2020
 
 The USA 140k mark moves up one day to July 21.
