@@ -2,6 +2,10 @@ Please visit the FAQ page for an explanation and rational for these
 plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
  plots
 
+## July 11, 2020
+
+![poly](figures/20200711.png?raw=true "11 July, 2020")
+
 ## July 10, 2020
 
 Brazil passes the 70k mark, still over 1000 deaths/day which has been
