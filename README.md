@@ -2,6 +2,14 @@ Please visit the FAQ page for an explanation and rational for these
 plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
  plots
 
+## July 12, 2020
+
+Mexico has passed Italy in total deaths, on pace for 40k in 8 days.
+Brazil is still running above 1000 deaths/day and on pace to reacy 80k
+in 8 days.  USA above 600/day and still trending up slightly.
+
+![poly](figures/20200712.png?raw=true "12 July, 2020")
+
 ## July 11, 2020
 
 ![poly](figures/20200711.png?raw=true "11 July, 2020")
