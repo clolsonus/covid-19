@@ -2,6 +2,12 @@ Please visit the FAQ page for an explanation and rational for these
 plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
  plots
 
+## July 13, 2020
+
+USA 140k mark bumps up another day to July 20.
+
+![poly](figures/20200713.png?raw=true "13 July, 2020")
+
 ## July 12, 2020
 
 Mexico has passed Italy in total deaths, on pace for 40k in 8 days.
