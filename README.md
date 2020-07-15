@@ -2,6 +2,13 @@ Please visit the FAQ page for an explanation and rational for these
 plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
  plots
 
+## July 14, 2020
+
+USA daily death rate inching up.  150k mark comes into view,
+estimating around Aug 5.
+
+![poly](figures/20200714.png?raw=true "14 July, 2020")
+
 ## July 13, 2020
 
 USA 140k mark bumps up another day to July 20.
