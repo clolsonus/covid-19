@@ -4,6 +4,16 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 ## July 14, 2020
 
+USA has become very linear, but daily death rate is still inching up.
+190k by mid-October?  Brazil has been flat, just above 1000 deaths/day
+for a long time now, on pace for 80k in 5 days.  Mexico may have
+reached the inflection point where the deaths are starting to come
+down now.  Will reach 40k in 6 day though.
+
+![poly](figures/20200714.png?raw=true "14 July, 2020")
+
+## July 14, 2020
+
 USA daily death rate inching up.  150k mark comes into view,
 estimating around Aug 5.
 
