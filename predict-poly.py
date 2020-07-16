@@ -20,6 +20,8 @@ ap = argparse.ArgumentParser(description="Fit a polynomial to data and plot")
 ap.add_argument('--fit-days', type=int, default=35, help='Number of previous days to include in the fit.')
 ap.add_argument('--predict-days', type=int, default=21, help='Number of days to predict into the future.')
 ap.add_argument('--degree', type=int, default=2, help='Degree of polynomial.')
+ap.add_argument('--look-back', type=int, default=0, help='Generate plot for n days ago')
+ap.add_argument('--no-plot', action='store_true', help='skip the interactive plot, just save the plot to a file.')
 args = ap.parse_args()
 
 pathBase = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/'
@@ -109,7 +111,7 @@ regionList = ['Mexico', 'Italy', 'Spain', 'US', 'France', 'United Kingdom', 'Ind
 colorList = ['blue', 'red', 'magenta', 'green', 'orange', 'purple', 'gray', 'black']
 param = 'Deaths' # Deaths, Confirmed, Recovered
 
-plt.figure()
+plt.figure( figsize=(25.60,14.40) )
 
 #fit_days = 28
 #pred_days = 14
@@ -120,7 +122,8 @@ for iList, regionName in enumerate(regionList):
     print(regionName)
     color = colorList[iList]
     data = dfAll[param][regionName].values
-    #data = data[:-1]
+    if args.look_back > 0:
+        data = data[:-args.look_back]
     date = dfAll[param][regionName].index
     print("len:", len(data))
     print(data[-args.fit_days:])
@@ -191,6 +194,7 @@ for iList, regionName in enumerate(regionList):
             print(d, int(round(func(d))), rate)
 
         cdt = dt + timedelta(days=len(data)-99)
+        filename = cdt.strftime("%04Y%02m%02d") + ".png"
 
         # most recent day
         plt.annotate(cdt.strftime("%d %b %Y") + ": %s" % format(data[-1], ',d'), xy=(len(data)-1, data[-1]),
@@ -267,4 +271,7 @@ plt.title("Data source: Johns Hopkins CSSE (https://github.com/CSSEGISandData/CO
 plt.ylabel("Total Deaths (per country)")
 plt.xlabel("Last %d days fit, %d days predict ahead (Polynomial degree: %d)" % (args.fit_days, args.predict_days, args.degree))
 
-plt.show()
+plt.savefig(filename)
+
+if not args.no_plot:
+    plt.show()
