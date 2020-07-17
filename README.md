@@ -2,6 +2,13 @@ Please visit the FAQ page for an explanation and rational for these
 plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
  plots
 
+## July 16, 2020
+
+USA death rate continueing to inch up (661/day).  200k before the end
+of October?  150k by Aug 4.
+
+![poly](figures/20200716.png?raw=true "16 July, 2020")
+
 ## July 15, 2020
 
 USA has become very linear, but daily death rate is still inching up.
