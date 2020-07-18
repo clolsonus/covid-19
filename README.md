@@ -2,6 +2,13 @@ Please visit the FAQ page for an explanation and rational for these
 plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
  plots
 
+## July 17, 2020
+
+USA fit for last 5 weeks is now almost exactly flat. 150k mark bumps
+up a day to Aug 3.
+
+![poly](figures/20200717.png?raw=true "17 July, 2020")
+
 ## July 16, 2020
 
 USA death rate continueing to inch up (661/day).  200k before the end
