@@ -2,6 +2,16 @@ Please visit the FAQ page for an explanation and rational for these
 plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
  plots
 
+## July 19, 2020
+
+The USA 35 day fit officially flips from bending downward to bending
+upward.  Brazil will likely pass 80k tomrrow.  Mexico will likely pass
+40k in two days.  Iran will likely pass Spain in total deaths in 2
+days.  Brazil stil flat at over 1000/day, USA creeping back up to
+nearly 700/day and rising.
+
+![poly](figures/20200719.png?raw=true "19 July, 2020")
+
 ## July 18, 2020
 
 The USA passes the 140k mark.
