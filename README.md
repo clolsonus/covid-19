@@ -2,6 +2,14 @@ Please visit the FAQ page for an explanation and rational for these
 plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
  plots
 
+## July 20, 2020
+
+India will pass spain in total deaths tomorrow.  Mexico will reach the
+40k mark tomorrow.  Despite daily variations, the USA continues at
+nearly 700 deaths/day.
+
+![poly](figures/20200720.png?raw=true "20 July, 2020")
+
 ## July 19, 2020
 
 The USA 35 day fit officially flips from bending downward to bending
