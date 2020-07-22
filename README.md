@@ -2,6 +2,15 @@ Please visit the FAQ page for an explanation and rational for these
 plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
  plots
 
+## July 21, 2020
+
+Caution: India is on a clear upward accelerating trajectory.  Mexico's
+rate is starting to curve downward.  Brazil is still super flat and
+has been for quite a long time.  The USA death rate bending upward
+again, now over 700/day.
+
+![poly](figures/20200721.png?raw=true "21 July, 2020")
+
 ## July 20, 2020
 
 India will pass spain in total deaths tomorrow.  Mexico will reach the
