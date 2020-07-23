@@ -2,6 +2,15 @@ Please visit the FAQ page for an explanation and rational for these
 plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
  plots
 
+## July 22, 2020
+
+India: has a higher daily death rate now than Mexico and trending
+upwards, will hit 30k and pass France in about a day, 40k mark in 15
+days.  USA moves the 150k mark one day closer to Aug 1 (170k by end of
+August?)
+
+![poly](figures/20200722.png?raw=true "22 July, 2020")
+
 ## July 21, 2020
 
 Caution: India is on a clear upward accelerating trajectory.  Mexico's
