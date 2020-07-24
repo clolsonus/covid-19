@@ -2,6 +2,12 @@ Please visit the FAQ page for an explanation and rational for these
 plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
  plots
 
+## July 23, 2020
+
+USA: 150k by Aug 1, 160k by Aug 13, 170k by Aug 24, 180k by Sept 4.
+
+![poly](figures/20200722.png?raw=true "23 July, 2020")
+
 ## July 22, 2020
 
 India: has a higher daily death rate now than Mexico and trending
