@@ -6,7 +6,7 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 USA: 150k by Aug 1, 160k by Aug 13, 170k by Aug 24, 180k by Sept 4.
 
-![poly](figures/20200722.png?raw=true "23 July, 2020")
+![poly](figures/20200723.png?raw=true "23 July, 2020")
 
 ## July 22, 2020
 
