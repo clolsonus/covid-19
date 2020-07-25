@@ -2,6 +2,14 @@ Please visit the FAQ page for an explanation and rational for these
 plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
  plots
 
+## July 24, 2020
+
+USA: 150k by Jul 31, 160k by Aug 11, 170k by Aug 22, 180k by Sept 1.
+Over 800 deaths/day.  Brazil will hit 100k deaths in about 2 weeks.
+Mexico will pass the UK in total deaths in about 1 week.
+
+![poly](figures/20200724.png?raw=true "24 July, 2020")
+
 ## July 23, 2020
 
 USA: 150k by Aug 1, 160k by Aug 13, 170k by Aug 24, 180k by Sept 4.
