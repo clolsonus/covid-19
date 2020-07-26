@@ -4,7 +4,7 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 ## July 25, 2020
 
-USA: 150k by Jul 30, 160k by Aug 10, 170k by Aug 20, 180k by Aug 20.
+USA: 150k by Jul 30, 160k by Aug 10, 170k by Aug 20, 180k by Aug 29.
 850 deaths/day.
 
 ![poly](figures/20200725.png?raw=true "25 July, 2020")
