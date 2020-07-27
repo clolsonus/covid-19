@@ -2,6 +2,12 @@ Please visit the FAQ page for an explanation and rational for these
 plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
  plots
 
+## July 26, 2020
+
+USA: 884 deaths/day.
+
+![poly](figures/20200726.png?raw=true "26 July, 2020")
+
 ## July 25, 2020
 
 USA: 150k by Jul 30, 160k by Aug 10, 170k by Aug 20, 180k by Aug 29.
