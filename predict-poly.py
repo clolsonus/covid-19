@@ -107,7 +107,7 @@ def derivative(fit, x):
     return int(round(funcd(x)))
 
 #%%
-regionList = ['Mexico', 'Italy', 'Spain', 'US', 'France', 'United Kingdom', 'India', 'Brazil']
+regionList = ['Mexico', 'Italy', 'Iran', 'US', 'France', 'United Kingdom', 'India', 'Brazil']
 colorList = ['blue', 'red', 'magenta', 'green', 'orange', 'purple', 'gray', 'black']
 param = 'Deaths' # Deaths, Confirmed, Recovered
 

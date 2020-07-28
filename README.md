@@ -2,6 +2,13 @@ Please visit the FAQ page for an explanation and rational for these
 plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
  plots
 
+## July 27, 2020
+
+USA: 930 deaths/day.  160k by Aug 9, 170k by Aug 17, 180k by Aug 26.
+Added Iran (replaced Spain) on the chart.
+
+![poly](figures/20200727.png?raw=true "27 July, 2020")
+
 ## July 26, 2020
 
 USA: 884 deaths/day.
