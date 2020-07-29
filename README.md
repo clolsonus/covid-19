@@ -1,6 +1,16 @@
 Please visit the FAQ page for an explanation and rational for these
 plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
- plots
+
+# plots
+
+## July 28, 2020
+
+USA & India: not on good trajectories.  USA average is back up to
+almost 1000 deaths/day and will probably exceed that in a day or two.
+We will probably *re*take the lead ahead of Brazil for country with
+the highest deaths per day.
+
+![poly](figures/20200728.png?raw=true "28 July, 2020")
 
 ## July 27, 2020
 
