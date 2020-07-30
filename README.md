@@ -3,6 +3,13 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # plots
 
+## July 29, 2020
+
+USA up to 1,050 deaths/day.  160k by Aug 7, 170k by Aug 15, 180k by
+Aug 22, 190k by Aug 29.
+
+![poly](figures/20200729.png?raw=true "29 July, 2020")
+
 ## July 28, 2020
 
 USA & India: not on good trajectories.  USA average is back up to
