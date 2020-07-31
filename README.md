@@ -6,8 +6,8 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 ## July 30, 2020
 
 USA up to nearly 1100 deaths/day. 200k by Sept 3?  Brazil remains
-astonishingly flat.  India continues to accelerate, now at over 800
-deaths/day..
+astonishingly flat and will reach 100k deaths in about 9 days.  India
+continues to accelerate, now at over 800 deaths/day..
 
 ![poly](figures/20200730.png?raw=true "30 July, 2020")
 
