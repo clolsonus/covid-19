@@ -3,6 +3,13 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # plots
 
+## July 31, 2020
+
+Italy averaging about 5 deaths per day now as the USA climbs to 1,127
+and still increasing.
+
+![poly](figures/20200731.png?raw=true "31 July, 2020")
+
 ## July 30, 2020
 
 USA up to nearly 1100 deaths/day. 200k by Sept 3?  Brazil remains
