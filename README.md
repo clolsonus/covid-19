@@ -1,7 +1,7 @@
 Please visit the FAQ page for an explanation and rational for these
 plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
-# plots
+# Daily Plots
 
 ## July 31, 2020
 
