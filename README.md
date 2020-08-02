@@ -3,6 +3,12 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily Plots
 
+## Aug 1, 2020
+
+Welcome to August with no good covid news for the USA.  160k by Aug 6.  170k by Aug 14.  180k by Aug 21???
+
+![poly](figures/20200801.png?raw=true "1 Aug, 2020")
+
 ## July 31, 2020
 
 Italy averaging about 5 deaths per day now as the USA climbs to 1,127
