@@ -3,6 +3,15 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily Plots
 
+## Aug 4, 2020
+
+USA: 1184 deaths/day, 160k by Aug 7, 170k by Aug 14, 180k by Aug 21.
+Brazil: 1027 deaths/day, will pass 100k total deaths in about 4 days.
+Mexico: 596 deaths/day, will pass 50k in about 2 days.  India: 879
+deatahs/day, will pass 40k tomorrow.
+
+![poly](figures/20200804.png?raw=true "4 Aug, 2020")
+
 ## Aug 3, 2020
 
 ![poly](figures/20200803.png?raw=true "3 Aug, 2020")
