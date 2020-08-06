@@ -3,6 +3,10 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily Plots
 
+## Aug 5, 2020
+
+![poly](figures/20200805.png?raw=true "5 Aug, 2020")
+
 ## Aug 4, 2020
 
 USA: 1184 deaths/day, 160k by Aug 7, 170k by Aug 14, 180k by Aug 21.
