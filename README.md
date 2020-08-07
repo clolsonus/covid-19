@@ -3,6 +3,15 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily Plots
 
+## Aug 6, 2020
+
+USA reports 1,854 deaths in a single day, but longer term fit is
+1,195.  On pace to reach 190k by the end of Aug in the USA?  Brazil
+still on a very linear track.  India daily rate is growing very high
+and trending up.
+
+![poly](figures/20200806.png?raw=true "6 Aug, 2020")
+
 ## Aug 5, 2020
 
 ![poly](figures/20200805.png?raw=true "5 Aug, 2020")
