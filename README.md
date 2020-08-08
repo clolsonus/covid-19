@@ -3,6 +3,13 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily Plots
 
+## Aug 7, 2020
+
+Mexico passes 50k on schedule.  Brazil will pass 100k likely tomorrow.
+India's death rate keeps pushing up and is approach 1000/day.
+
+![poly](figures/20200807.png?raw=true "7 Aug, 2020")
+
 ## Aug 6, 2020
 
 USA reports 1,854 deaths in a single day, but longer term fit is
