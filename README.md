@@ -3,6 +3,10 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily Plots
 
+## Aug 8, 2020
+
+![poly](figures/20200808.png?raw=true "8 Aug, 2020")
+
 ## Aug 7, 2020
 
 Mexico passes 50k on schedule.  Brazil will pass 100k likely tomorrow.
