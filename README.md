@@ -3,6 +3,14 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily Plots
 
+## Aug 10, 2020
+
+USA showing signs of flattening and being at the top of the peak of
+the current surge.  Brazil showing signs of a down turn (finally).
+India continues accelerating upwards.
+
+![poly](figures/20200810.png?raw=true "10 Aug, 2020")
+
 ## Aug 9, 2020
 
 ![poly](figures/20200809.png?raw=true "9 Aug, 2020")
