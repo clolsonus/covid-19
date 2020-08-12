@@ -3,6 +3,10 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily Plots
 
+## Aug 11, 2020
+
+![poly](figures/20200811.png?raw=true "11 Aug, 2020")
+
 ## Aug 10, 2020
 
 USA showing signs of flattening and being at the top of the peak of
