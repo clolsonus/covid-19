@@ -3,6 +3,15 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily Plots
 
+## Aug 12, 2020
+
+USA: 1177 deaths/day, 170k by Aug 15, 180k by Aug 23, 190k by Aug 31?
+India is at nearly 1000 deaths/day and will reach the 50k mark in
+about 3 days. India is on pace to overtake Mexico in total deaths in
+about 20 days.
+
+![poly](figures/20200812.png?raw=true "12 Aug, 2020")
+
 ## Aug 11, 2020
 
 ![poly](figures/20200811.png?raw=true "11 Aug, 2020")
