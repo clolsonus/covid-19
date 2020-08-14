@@ -3,6 +3,12 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily Plots
 
+## Aug 13, 2020
+
+USA: daily deaths seem to be leveling out, but still up at 1,164/day.
+
+![poly](figures/20200813.png?raw=true "13 Aug, 2020")
+
 ## Aug 12, 2020
 
 USA: 1177 deaths/day, 170k by Aug 15, 180k by Aug 23, 190k by Aug 31?
