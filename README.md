@@ -7,7 +7,7 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 USA: 175k mark around Aug 20, 200k by mid-Sept?
 
-![poly](figures/20200813.png?raw=true "13 Aug, 2020")
+![poly](figures/20200814.png?raw=true "14 Aug, 2020")
 
 ## Aug 13, 2020
 
