@@ -3,6 +3,12 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily Plots
 
+## Aug 14, 2020
+
+USA: 175k mark around Aug 20, 200k by mid-Sept?
+
+![poly](figures/20200813.png?raw=true "13 Aug, 2020")
+
 ## Aug 13, 2020
 
 USA: daily deaths seem to be leveling out, but still up at 1,164/day.
