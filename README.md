@@ -3,6 +3,15 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily Plots
 
+## Aug 15, 2020
+
+USA: Deaths do appear to have peaked,but we may have entered the
+'level' phase for a while.  180k mark around Aug 24, 190k by Sept 1,
+200k by Sept 9?  India: will pass 50k tomorrow, will pass Mexico for
+3rd most total deaths in 18 days.
+
+![poly](figures/20200815.png?raw=true "15 Aug, 2020")
+
 ## Aug 14, 2020
 
 USA: 175k mark around Aug 20, 200k by mid-Sept?
