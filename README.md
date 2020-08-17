@@ -3,6 +3,15 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily Plots
 
+## Aug 16, 2020
+
+USA: appears to have past peak, so watch for future estimates to push
+out forward in time a bit as we go through this inflection point.  The
+USA is big collection of populations centers and these stats do not
+show those nuances as specific areas get hit and flare up.
+
+![poly](figures/20200816.png?raw=true "16 Aug, 2020")
+
 ## Aug 15, 2020
 
 USA: Deaths do appear to have peaked,but we may have entered the
