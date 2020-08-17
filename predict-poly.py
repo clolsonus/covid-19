@@ -107,7 +107,7 @@ def derivative(fit, x):
     return int(round(funcd(x)))
 
 #%%
-regionList = ['Mexico', 'Italy', 'Iran', 'US', 'France', 'United Kingdom', 'India', 'Brazil']
+regionList = ['Mexico', 'Italy', 'Peru', 'US', 'France', 'United Kingdom', 'India', 'Brazil']
 colorList = ['blue', 'red', 'magenta', 'green', 'orange', 'purple', 'gray', 'black']
 param = 'Deaths' # Deaths, Confirmed, Recovered
 
@@ -160,17 +160,6 @@ for iList, regionName in enumerate(regionList):
     
     # dayPred = 14
     # dayFit = list(range(min(dayThres) - dayPred, max(dayThres) + dayPred))
-
-    # if regionName in ['US']:
-    #     pFit, pErr = FitPoly(dayThres, dataThres, p0=[0,0,0,0])
-    #     dataFit = [ModelPoly(i, pFit[0], pFit[1], pFit[2], pFit[3]) for i in dayFit]
-        
-    # elif regionName not in ['Belgium', 'China', 'France', 'Italy', 'Spain', 'Iran', 'United Kingdom', 'US', 'Brazil']:
-    #     pFit, pErr = FitExponential(dayThres, dataThres, p0=[2,100,20000])
-    #     dataFit = [ModelExponential(i,  pFit[0],  pFit[1],  pFit[2]) for i in dayFit]
-    # else:
-    #     pFit, pErr = FitLogistic(dayThres, dataThres, p0=[2,100,20000])
-    #     dataFit = [ModelLogistic(i, pFit[0], pFit[1], pFit[2]) for i in dayFit]
 
     # # Shift the start day, so the fit starts at dataStart
     # dayShift = np.interp(dataStart, dataFit, dayFit)
