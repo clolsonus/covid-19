@@ -5,7 +5,7 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 ## Aug 16, 2020
 
-USA: appears to have past peak, so watch for future estimates to push
+USA: appears to have passed peak, so watch for future estimates to push
 out forward in time a bit as we go through this inflection point.  The
 USA is big collection of populations centers and these stats do not
 show those nuances as specific areas get hit and flare up.
