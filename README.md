@@ -3,6 +3,17 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily Plots
 
+## Aug 18, 2020
+
+India reaches the 1000 deaths/day mark.  They will pass Mexico for
+total deaths in about 13 days.  USA continues at above 1000 deaths/day
+but the overall trajectory is flat.  USA daily rate should begin to
+slowly fall unless (until?) the back to school push across the country
+has an impact on covid spreading and that would then begin to have an
+impact on deaths in a few weeks.
+
+![poly](figures/20200818.png?raw=true "18 Aug, 2020")
+
 ## Aug 17, 2020
 
 USA: 180k by Aug 25, 190k by Sept 3, 200k by Sept 12.
