@@ -9,7 +9,7 @@ India reaches the 1000 deaths/day mark.  They will pass Mexico for
 total deaths in about 13 days.  USA continues at above 1000 deaths/day
 but the overall trajectory is flat.  USA daily rate should begin to
 slowly fall unless (until?) the back to school push across the country
-has an impact on covid spreading and that would then begin to have an
+has an impact on covid spreading and that could begin to have an
 impact on deaths in a few weeks.
 
 ![poly](figures/20200818.png?raw=true "18 Aug, 2020")
@@ -104,7 +104,7 @@ and trending up.
 USA: 1184 deaths/day, 160k by Aug 7, 170k by Aug 14, 180k by Aug 21.
 Brazil: 1027 deaths/day, will pass 100k total deaths in about 4 days.
 Mexico: 596 deaths/day, will pass 50k in about 2 days.  India: 879
-deatahs/day, will pass 40k tomorrow.
+deaths/day, will pass 40k tomorrow.
 
 ![poly](figures/20200804.png?raw=true "4 Aug, 2020")
 
@@ -208,7 +208,7 @@ again, now over 700/day.
 
 ## July 20, 2020
 
-India will pass spain in total deaths tomorrow.  Mexico will reach the
+India will pass Spain in total deaths tomorrow.  Mexico will reach the
 40k mark tomorrow.  Despite daily variations, the USA continues at
 nearly 700 deaths/day.
 
@@ -217,9 +217,9 @@ nearly 700 deaths/day.
 ## July 19, 2020
 
 The USA 35 day fit officially flips from bending downward to bending
-upward.  Brazil will likely pass 80k tomrrow.  Mexico will likely pass
+upward.  Brazil will likely pass 80k tomorrow.  Mexico will likely pass
 40k in two days.  Iran will likely pass Spain in total deaths in 2
-days.  Brazil stil flat at over 1000/day, USA creeping back up to
+days.  Brazil still flat at over 1000/day, USA creeping back up to
 nearly 700/day and rising.
 
 ![poly](figures/20200719.png?raw=true "19 July, 2020")
@@ -239,7 +239,7 @@ up a day to Aug 3.
 
 ## July 16, 2020
 
-USA death rate continueing to inch up (661/day).  200k before the end
+USA death rate continuing to inch up (661/day).  200k before the end
 of October?  150k by Aug 4.
 
 ![poly](figures/20200716.png?raw=true "16 July, 2020")
@@ -270,7 +270,7 @@ USA 140k mark bumps up another day to July 20.
 ## July 12, 2020
 
 Mexico has passed Italy in total deaths, on pace for 40k in 8 days.
-Brazil is still running above 1000 deaths/day and on pace to reacy 80k
+Brazil is still running above 1000 deaths/day and on pace to reach 80k
 in 8 days.  USA above 600/day and still trending up slightly.
 
 ![poly](figures/20200712.png?raw=true "12 July, 2020")
