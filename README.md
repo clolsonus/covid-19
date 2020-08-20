@@ -3,6 +3,12 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily Plots
 
+## Aug 19, 2020
+
+USA: 180k deaths by Aug 26, still over 1000 deaths/day now.
+
+![poly](figures/20200819.png?raw=true "19 Aug, 2020")
+
 ## Aug 18, 2020
 
 India reaches the 1000 deaths/day mark.  They will pass Mexico for
