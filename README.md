@@ -3,6 +3,10 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily Plots
 
+## Aug 20, 2020
+
+![poly](figures/20200820.png?raw=true "20 Aug, 2020")
+
 ## Aug 19, 2020
 
 USA: 180k deaths by Aug 26, still over 1000 deaths/day now.
