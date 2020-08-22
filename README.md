@@ -3,6 +3,12 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily Plots
 
+## Aug 21, 2020
+
+USA: 180k by Aug 26, 190k by Sept 5, 200k by Sept 15?
+
+![poly](figures/20200821.png?raw=true "21 Aug, 2020")
+
 ## Aug 20, 2020
 
 ![poly](figures/20200820.png?raw=true "20 Aug, 2020")
