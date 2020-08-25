@@ -3,6 +3,13 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily Plots
 
+## Aug 24, 2020
+
+USA: 961 deaths/day (and very slowly falling.)  180k on Aug 27, 190k
+on Sep 6, 200k on Sep 18.
+
+![poly](figures/20200824.png?raw=true "24 Aug, 2020")
+
 ## Aug 23, 2020
 
 ![poly](figures/20200823.png?raw=true "23 Aug, 2020")
