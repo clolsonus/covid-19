@@ -3,6 +3,12 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily Plots
 
+## Aug 27, 2020
+
+USA: passes the 180k mark 'on schedule'.  190k by Sept 7, 200k by Sept 19.
+
+![poly](figures/20200827.png?raw=true "27 Aug, 2020")
+
 ## Aug 26, 2020
 
 ![poly](figures/20200826.png?raw=true "26 Aug, 2020")
