@@ -3,6 +3,14 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily Plots
 
+## Aug 30, 2020
+
+India passes Mexica for total deaths (now 3rd overall behind the USA
+and Brazil.)  USA deaths continue to drop vs. one week ago (but
+slowly.)
+
+![poly](figures/20200830.png?raw=true "30 Aug, 2020")
+
 ## Aug 29, 2020
 
 ![poly](figures/20200829.png?raw=true "29 Aug, 2020")
