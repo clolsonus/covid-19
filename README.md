@@ -5,11 +5,21 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 ## Aug 31, 2020
 
+August summary:
+
+* 150k - July 31
+* 160k - Aug 7
+* 170k - Aug 16
+* 180k - Aug 27
+* 190k - Sept 7?
+* 200k - Sept 19?
+* 30,283 deaths in August (977/day)
+
 ![poly](figures/20200831.png?raw=true "31 Aug, 2020")
 
 ## Aug 30, 2020
 
-India passes Mexica for total deaths (now 3rd overall behind the USA
+India passes Mexico for total deaths (now 3rd overall behind the USA
 and Brazil.)  USA deaths continue to drop vs. one week ago (but
 slowly.)
 
