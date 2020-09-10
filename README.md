@@ -3,6 +3,17 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily Plots
 
+## Sept 9, 2020
+
+USA: 751 deaths/day, passed the 190k mark, predict 200k near Dept 22.
+India is still slowly trending upwards. The fit for Peru is showing
+artifacts from the big step correction in their data a few weeks ago.
+UK, France, and Italy are down to single digit deaths per day, while
+the disease continues to roar through the USA, Latin America, India
+and many other places.
+
+![poly](figures/20200909.png?raw=true "9 Sept, 2020")
+
 ## Sept 8, 2020
 
 ![poly](figures/20200908.png?raw=true "8 Sept, 2020")
