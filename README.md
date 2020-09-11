@@ -3,6 +3,12 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily Plots
 
+## Sept 10, 2020
+
+USA: 732 deaths/day, predict 200k near Sept 23.
+
+![poly](figures/20200910.png?raw=true "10 Sept, 2020")
+
 ## Sept 9, 2020
 
 USA: 751 deaths/day, passed the 190k mark, predict 200k near Sept 22.
