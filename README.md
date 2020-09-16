@@ -3,6 +3,15 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily Plots
 
+## Sept 15, 2020
+
+India: 1134 deaths/day and increasing, on pace to hit 100k total
+deaths by end of Sept.  Mexico: 452/day, on pace to hit 75k total
+deaths by Sept 23.  USA still on pace to reach 200k deaths before Sept
+23.
+
+![poly](figures/20200915.png?raw=true "15 Sept, 2020")
+
 ## Sept 14, 2020
 
 ![poly](figures/20200914.png?raw=true "14 Sept, 2020")
