@@ -3,6 +3,10 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily Plots
 
+## Sept 16, 2020
+
+![poly](figures/20200916.png?raw=true "16 Sept, 2020")
+
 ## Sept 15, 2020
 
 India: 1134 deaths/day and increasing, on pace to hit 100k total
