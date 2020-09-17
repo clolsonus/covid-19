@@ -5,6 +5,8 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 ## Sept 16, 2020
 
+USA: 693 deaths/day, 200k by Sept 22, 210k by Oct 10, 220k by Nov 12.
+
 ![poly](figures/20200916.png?raw=true "16 Sept, 2020")
 
 ## Sept 15, 2020
