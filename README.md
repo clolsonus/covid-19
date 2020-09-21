@@ -3,6 +3,10 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily Plots
 
+## Sept 20, 2020
+
+![poly](figures/20200920.png?raw=true "20 Sept, 2020")
+
 ## Sept 19, 2020
 
 USA:709 deaths/day, 200k on Sept 21, 210k on Oct 7, 220k on Oct 27,
