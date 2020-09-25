@@ -3,6 +3,12 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily Plots
 
+## Sept 24, 2020
+
+Mexico passes 75k deaths.  India one week away from passing 100k deaths.
+
+![poly](figures/20200924.png?raw=true "24 Sept, 2020")
+
 ## Sept 23, 2020
 
 USA: 706 deaths/day, 210k on Oct 6, 220k on Oct 23, 230k on Nov 13,
