@@ -3,6 +3,14 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily Plots
 
+## Sept 25, 2020
+
+USA daily death rate nudging up again (now 720/day.) December is too
+far away to reliably estimate, but our current trajectory puts us at
+250k deaths by the end of the year.
+
+![poly](figures/20200925.png?raw=true "25 Sept, 2020")
+
 ## Sept 24, 2020
 
 Mexico passes 75k deaths.  India one week away from passing 100k deaths.
