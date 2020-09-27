@@ -3,6 +3,10 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily Plots
 
+## Sept 26, 2020
+
+![poly](figures/20200926.png?raw=true "26 Sept, 2020")
+
 ## Sept 25, 2020
 
 USA daily death rate nudging up again (now 720/day.) December is too
