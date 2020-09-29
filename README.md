@@ -3,6 +3,10 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily Plots
 
+## Sept 28, 2020
+
+![poly](figures/20200928.png?raw=true "28 Sept, 2020")
+
 ## Sept 27, 2020
 
 ![poly](figures/20200927.png?raw=true "27 Sept, 2020")
