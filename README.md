@@ -3,9 +3,17 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily Plots
 
+## Sept 29, 2020
+
+USA: Continued upward pressure in the daily death trends is bringing
+the ETA to 250k deaths closer, now on/near Dec 10.  India will pass
+100k deaths in 2 days.  Brazil to pass 150k deaths in 11 days.
+
+![poly](figures/20200929.png?raw=true "29 Sept, 2020")
+
 ## Sept 28, 2020
 
-USA: 210k deaths on October 5, 250k deaths by December 14?
+USA: Will reach 210k deaths on October 5, 250k deaths by December 14?
 
 ![poly](figures/20200928.png?raw=true "28 Sept, 2020")
 
