@@ -3,17 +3,17 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Messages
 
-Oct 1, 2020: I started this project in part due to counter a
-widespread disbelief in covid and covid fatality numbers.  It was my
-attempt ot add context and show the future scary predictions were
-actually true, and largely they have proven out over time, give or
-take a few days.  I think we've now settled into an acceptance of the
-numbers (for better or worse.)  There are still some that refuse to
-believe science and math, and those people will always exist in some
-form.  I may scale back updates to more of a weekly time schedule.
-The scripts remain, and the Johns Hopkins daily data feed is still
-live, for those that want to explore their own data fitting paramters
-or run these scripts and generate plots daily.
+Oct 1, 2020: I started this project in part to counter a widespread
+disbelief in covid and covid fatality numbers.  It was my attempt ot
+add context and show the future scary predictions were actually true,
+and largely they have proven out over time, give or take a few days.
+I think we've now settled into an acceptance of the numbers (for
+better or worse.)  There are still some that refuse to believe science
+and math, and those people will always exist in some form.  I may
+scale back updates to more of a weekly time schedule.  The scripts
+remain, and the Johns Hopkins daily data feed is still live, for those
+that want to explore their own data fitting paramters or run these
+scripts and generate plots daily.
 
 # Daily Plots
 
