@@ -3,6 +3,15 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Daily Plots
 
+## Sept 30, 2020
+
+September Summary:
+* 190k deaths on 9/9
+* 200k deaths on 9/22
+* 23,335 deaths in August (778/day)
+
+![poly](figures/20200930.png?raw=true "30 Sept, 2020")
+
 ## Sept 29, 2020
 
 USA: Continued upward pressure in the daily death trends is bringing
