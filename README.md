@@ -1,14 +1,41 @@
 Please visit the FAQ page for an explanation and rational for these
 plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
+# Messages
+
+Oct 1, 2020: I started this project in part due to counter a
+widespread disbelief in covid and covid fatality numbers.  It was my
+attempt ot add context and show the future scary predictions were
+actually true, and largely they have proven out over time, give or
+take a few days.  I think we've now settled into an acceptance of the
+numbers (for better or worse.)  There are still some that refuse to
+believe science and math, and those people will always exist in some
+form.  I may scale back updates to more of a weekly time schedule.
+The scripts remain, and the Johns Hopkins daily data feed is still
+live, for those that want to explore their own data fitting paramters
+or run these scripts and generate plots daily.
+
 # Daily Plots
 
 ## Sept 30, 2020
 
 September Summary:
+
 * 190k deaths on 9/9
 * 200k deaths on 9/22
 * 23,335 deaths in August (778/day)
+
+Looking ahead to October and beyond:
+
+* At the current trajectory, we will hit 250k deaths in the USA by December 8.
+* We could be above 260k deaths by the end of the year.
+* Longer term models suggest the death rate will begin to climb again
+  mid-late October.
+* I am already seeing some upward pressure on the trajectory starting
+  the last half of September.  We are still trending down, but less
+  and less.  Meaning we are moving towards level and if that trend of
+  trends continues we would eventually see daily deaths increasing
+  again (as most models are predicting.)
 
 ![poly](figures/20200930.png?raw=true "30 Sept, 2020")
 
