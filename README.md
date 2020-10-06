@@ -20,7 +20,7 @@ scripts and generate plots daily.
 ## Oct 5, 2020
 
 USA:
-* 710 deaths/day
+* 710 deaths/day, passed the 210k mark.
 * 19 Oct 2020: 220,000
 * 03 Nov 2020: 230,000
 * 20 Nov 2020: 240,000
