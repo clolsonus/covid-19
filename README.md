@@ -15,6 +15,21 @@ remain, and the Johns Hopkins daily data feed is still live, for those
 that want to explore their own data fitting paramters or run these
 scripts and generate plots daily.
 
+# Weekly Plots
+
+## Oct 5, 2020
+
+USA:
+* 710 deaths/day
+* 19 Oct 2020: 220,000
+* 03 Nov 2020: 230,000
+* 20 Nov 2020: 240,000
+* 07 Dec 2020: 250,000
+* 27 Dec 2020: 260,000
+* 17 Jan 2021: 270,000
+
+![poly](figures/20201005.png?raw=true "5 October, 2020")
+
 # Daily Plots
 
 ## Sept 30, 2020
@@ -23,7 +38,7 @@ September Summary:
 
 * 190k deaths on 9/9
 * 200k deaths on 9/22
-* 23,335 deaths in August (778/day)
+* 23,335 deaths in September (778/day)
 
 Looking ahead to October and beyond:
 
