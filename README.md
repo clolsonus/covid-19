@@ -3,6 +3,18 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Weekly Plots
 
+## Oct 12, 2020
+
+USA:
+* 664 deaths/day
+* 20 Oct 2020: 220,000
+* 06 Nov 2020: 230,000
+* 25 Nov 2020: 240,000
+* 20 Dec 2020: 250,000
+* 25 Jan 2021: 260,000
+
+![poly](figures/20201012.png?raw=true "12 October, 2020")
+
 ## Oct 5, 2020
 
 USA:
@@ -16,7 +28,7 @@ USA:
 
 ![poly](figures/20201005.png?raw=true "5 October, 2020")
 
-# Message - Oct 1, 2020
+## Message - Oct 1, 2020
 
 I started this project in part to counter a widespread disbelief in
 covid and covid fatality numbers.  It was my attempt to add context
