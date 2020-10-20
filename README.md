@@ -5,14 +5,9 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 ## Oct 19, 2020
 
-USA:
-* 695 deaths/day
-* 3 Nov 2020: 230,000
-* 17 Nov 2020: 240,000
-* 3 Dec 2020: 250,000
-* 19 Jan 2020: 260,000
-* 4 Jan 2021: 270,000
-* 21 Jan 2021: 280,00
+USA: 695 deaths/day, 230k by 3 Nov 2020, 240k by 17 Nov 2020, 250k by
+3 Dec 2020, 260k by 19 Jan 2020, 270k by 4 Jan 2021, 280k by 21 Jan
+2021.
 
 ![poly](figures/20201019.png?raw=true "19 October, 2020")
 
