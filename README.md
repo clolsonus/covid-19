@@ -3,6 +3,14 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Weekly Plots
 
+## Oct 26, 2020
+
+USA: 757 deaths/day, 230k by Nov 1, 240k by Nov 14, 250k by Nov 26,
+260k by Dec 8, 270k by Dec 20 2021, 280k by Dec 31 2021.  (300k by Jan
+22?)
+
+![poly](figures/20201026.png?raw=true "26 October, 2020")
+
 ## Oct 19, 2020
 
 USA: 695 deaths/day, Passed the 220k mark, 230k by Nov 3, 240k by Nov
