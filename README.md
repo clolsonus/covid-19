@@ -5,11 +5,9 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 ## Nov 23, 2020
 
-USA: 1136 deaths/day, passed 240k, 250k by Nov 19, 260k by Nov 27,
-270k by Dec 4, 300k by Dec 24 2020.  (350k by Jan 21, 2021?)
-Eyeballing past data and trends, I estimate we have another 2-3 weeks
-until the peak.  And then as this peak is tapering off, we will fuel
-the next peak during the holidays and new years.
+USA: 1463 deaths/day, passed 250k, 260k by Nov 25, 270k by Dec 1, 280k
+by Dec 7, 290k by Dec 12, 300k by Dec 18 2020.  (350k by Jan 8, 2021?)
+Are we still on track to top off this current peak int a week or two?
 
 ![poly](figures/20201123.png?raw=true "23 November, 2020")
 
