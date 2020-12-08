@@ -11,7 +11,7 @@ Dec 15 2020, 310k by Dec 19, 320k by Dec 22, 330k by 26, 340k by Dec
 death rate continues to accelerate upwards suggesting we still have
 some ways to go before any peak.
 
-![poly](figures/20201130.png?raw=true "30 November, 2020")
+![poly](figures/20201207.png?raw=true "7 December, 2020")
 
 ## Nov 30, 2020
 
