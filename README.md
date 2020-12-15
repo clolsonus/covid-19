@@ -3,13 +3,25 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Weekly Plots
 
+## Dec 14, 2020
+
+USA: 2,564 deaths/day, passed 290k *and* 300k, 310k by Dec 18, 320k by
+Dec 21, 330k by Dec 25, 340k by Dec 28, 350k by Dec 31, 360k by Jan 3
+2021, 370k by Jan 6, 380k by Jan 8, 390k by Jan 11 (400k by Jan 14,
+2021?)  Daily death rate continues to accelerate upwards suggesting we
+still have some ways to go before any peak. IMHE is predicting the
+peak at the end of Dec, but their prediction keeps getting pushed back
+as this wave is worse than anyone imagined.
+
+![poly](figures/20201214.png?raw=true "14 December, 2020")
+
 ## Dec 7, 2020
 
 USA: 2119 deaths/day, passed 270k *and* 280k, 290k by Dec 10, 300k by
-Dec 15 2020, 310k by Dec 19, 320k by Dec 22, 330k by 26, 340k by Dec
-30, 350k by Jan 2 2021, 360k by Jan 5, (400k by Jan 17, 2021?)  Daily
-death rate continues to accelerate upwards suggesting we still have
-some ways to go before any peak.
+Dec 15 2020, 310k by Dec 19, 320k by Dec 22, 330k by Dec 26, 340k by
+Dec 30, 350k by Jan 2 2021, 360k by Jan 5, (400k by Jan 17, 2021?)
+Daily death rate continues to accelerate upwards suggesting we still
+have some ways to go before any peak.
 
 ![poly](figures/20201207.png?raw=true "7 December, 2020")
 
