@@ -3,6 +3,18 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Weekly Plots
 
+## Dec 21, 2020
+
+USA: 2,963 deaths/day, passed 310k, 320k by Dec 22, 330k by Dec 24,
+340k by Dec 28, 350k by Dec 31, 360k by Jan 2 2021, 370k by Jan 5,
+380k by Jan 8, 390k by Jan 10, 400k by Jan 13?  Daily death rate
+continues to increase, but seeing signs we are getting past the
+exponential growth at least.  There is historically a big
+slowdown in data rporting over any holiday, so watch for that to skew
+the results temporarily.
+
+![poly](figures/20201221.png?raw=true "21 December, 2020")
+
 ## Dec 14, 2020
 
 USA: 2,564 deaths/day, passed 290k *and* 300k, 310k by Dec 18, 320k by
