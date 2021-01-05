@@ -3,6 +3,23 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Weekly Plots
 
+## Jan 4, 2021
+
+USA: 2,487 deaths/day, passed 340k and 350k "on schedule" so to
+speak. 360k by Jan 7, 370k by Jan 11, 380k by Jan 15, 390k by Jan 19,
+400k by Jan 23.  These have been pushed back by a day or two as the
+fit curve flattens.  Daily death rate actually has been around (very
+roughly) 2500 for 3 weeks now.  It's still hard to say what affect the
+Holidays had on data reporting.  There is a clear flattening of the
+daily rate which usually is a signal that it will begin dropping next,
+but this is the first Christmas we've been through with covid so we
+have to probably wait at least a few more days to determine if it is a
+trend or an artifact.  If I was to guess at this moment, I think it is
+some of both.  I think we are definitely getting out of the
+exponential growth phase of this wave.
+
+![poly](figures/20210104.png?raw=true "04 January, 2021")
+
 ## Dec 28, 2020
 
 USA: 2,761 deaths/day, passed 320k and 330k.  340k by Dec 29, 350k by
