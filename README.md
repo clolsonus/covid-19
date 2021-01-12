@@ -3,6 +3,16 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Weekly Plots
 
+## Jan 11, 2021
+
+USA: 2,852 deaths/day, passed 360k and 370k. 380k by Jan 13, 390k by
+Jan 16, 400k by Jan 20, 450k by Feb 5.  Daily death rate is
+accelerating back upwards again.  The actual average for the last 7
+days is 3,225/day.  What we have to look forward to know is the after
+affects of the social spreading during the holidays.
+
+![poly](figures/20210111.png?raw=true "11 January, 2021")
+
 ## Jan 4, 2021
 
 USA: 2,487 deaths/day, passed 340k and 350k "on schedule" so to
