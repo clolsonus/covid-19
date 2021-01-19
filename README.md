@@ -3,6 +3,20 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Weekly Plots
 
+## Jan 18, 2021
+
+USA: 3,526 deaths/day, passed 380k and 390k. 400k by Jan 19, 420k by
+Jan 24, 450k by Jan 31, 480k by Feb 7.  Daily death rate continues to
+accelerate back upwards.  IMHE keeps pushing their estimate of the
+peak back each time they update the model -- now waying we won't peak
+out until end of January.  The daily average for the last 7 days is
+still over 3200 deaths/day.  Assuming vaccines are starting to make
+their way to the most at-risk demographics, how soon until this starts
+to show up as an improvement in the death totals?  A few weeks?  A
+month?
+
+![poly](figures/20210118.png?raw=true "18 January, 2021")
+
 ## Jan 11, 2021
 
 USA: 2,852 deaths/day, passed 360k and 370k. 380k by Jan 13, 390k by
