@@ -3,6 +3,16 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Weekly Plots
 
+## Jan 25, 2021
+
+USA: 3,577 deaths/day, passed 400k, 410k, and 420k. 430k by Jan 27,
+450k by Feb 2, 500k by Feb 14.  Daily death rate remains above
+3000/day.  It looks like we have reached a peak in new cases in the
+first half of January, so we should be looking for a peak in reported
+deaths in early February?
+
+![poly](figures/20210125.png?raw=true "25 January, 2021")
+
 ## Jan 18, 2021
 
 USA: 3,526 deaths/day, passed 380k and 390k. 400k by Jan 19, 420k by
