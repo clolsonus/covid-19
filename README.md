@@ -3,6 +3,15 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Weekly Plots
 
+## Feb 8, 2021
+
+USA: 3,110 deaths/day, passed 450k, and 460k total deaths. 470k by Feb
+10, 480k by Feb 13, 490k by Feb 16, 500k by Feb 19.  550k by March 8?
+Daily death rate remains above 3000/day but now the curve fit has
+flipped and is trending down very slightly.
+
+![poly](figures/20210208.png?raw=true "8 February, 2021")
+
 ## Feb 1, 2021
 
 USA: 3,280 deaths/day, passed 430k, and 440k total deaths. 450k by Feb
