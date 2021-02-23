@@ -3,6 +3,16 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Weekly Plots
 
+## Feb 22, 2021
+
+USA: 1,727 deaths/day.  This is a huge drop in a week.  5 weeks ago
+the daily rate was approx. 3,700/day and now it is closer to
+1,700/day.  This also significantly changes the longer range
+projection which is great news.  Passed 490k, and 500k total
+deaths. 510k deatsh by Feb 28, 520k by Mar 9.
+
+![poly](figures/20210222.png?raw=true "22 February, 2021")
+
 ## Feb 15, 2021
 
 USA: 2,931 deaths/day (approx 5 weeks above 3k a day.)  Passed 470k,
