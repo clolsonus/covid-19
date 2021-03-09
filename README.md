@@ -3,6 +3,13 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Weekly Plots
 
+## Mar 8, 2021
+
+USA: 1,451 deaths/day.  Passed 520k total deaths. 530k deatsh by Mar
+11, 540k by Mar 19, 550k by Mar 31.
+
+![poly](figures/20210308.png?raw=true "8 March, 2021")
+
 ## Mar 1, 2021
 
 USA: 1,528 deaths/day.  Passed 510k total deaths. 520k deatsh by Mar
