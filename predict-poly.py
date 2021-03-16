@@ -186,7 +186,7 @@ for iList, regionName in enumerate(regionList):
         filename = cdt.strftime("%04Y%02m%02d") + ".png"
 
         # most recent day
-        plt.annotate(cdt.strftime("%d %b %Y") + ": %s" % format(data[-1], ',d'), xy=(len(data)-1, data[-1]),
+        plt.annotate(cdt.strftime("%d %b %Y") + ": %s" % format(data[-1], ',.0f'), xy=(len(data)-1, data[-1]),
                      xytext=(len(data)-1.5, data[-1]+10000), xycoords='data',
                      arrowprops=dict(facecolor='black', shrink=0.05),
                      horizontalalignment='right', verticalalignment='top')
