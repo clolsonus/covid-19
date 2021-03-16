@@ -13,7 +13,8 @@ USA: 1,285 deaths/day (9 days away from going below 1k/day?)  Passed
 ## Mar 8, 2021
 
 USA: 1,451 deaths/day.  Passed 520k total deaths. 530k deatsh by Mar
-11, 540k by Mar 19, 550k by Mar 31.
+11, 540k by Mar 19, 550k by Mar 31.  Brazil will pass the 300k mark in
+approximately 10 days.
 
 ![poly](figures/20210308.png?raw=true "8 March, 2021")
 
