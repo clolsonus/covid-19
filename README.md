@@ -3,6 +3,14 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Weekly Plots
 
+## Mar 22, 2021
+
+USA: 836 deaths/day (daily rate is plummetting, probably a combination
+of vaccine effectiveness and back side of the 2nd wave.)  Passed 540k
+total deaths. 550k deaths by April 3.
+
+![poly](figures/20210322.png?raw=true "22 March, 2021")
+
 ## Mar 15, 2021
 
 USA: 1,285 deaths/day (9 days away from going below 1k/day?)  Passed
