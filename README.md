@@ -3,6 +3,13 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Weekly Plots
 
+## Mar 29, 2021
+
+USA: 663 deaths/day (daily continues to drop but more slowly now.)
+Passed 550k total deaths.  Brazil. :-(
+
+![poly](figures/20210329.png?raw=true "29 March, 2021")
+
 ## Mar 22, 2021
 
 USA: 836 deaths/day (daily rate is plummetting, probably a combination
