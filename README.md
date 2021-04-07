@@ -3,6 +3,12 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Weekly Plots
 
+## Apr 5, 2021
+
+USA: 642 deaths/day.  560k deaths on April 14.
+
+![poly](figures/20210405.png?raw=true "5 April, 2021")
+
 ## Mar 29, 2021
 
 USA: 663 deaths/day (daily continues to drop but more slowly now.)
