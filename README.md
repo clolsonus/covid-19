@@ -3,6 +3,15 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Weekly Plots
 
+## Apr 19, 2021
+
+USA: 746 deaths/day. 570k deaths on April 22, 580k on May 7, 590k on
+May 27, 600k on June 5.  Brazil is on pace for 400k total deaths in 7
+days.  India is also rapidly accelerating upwards and has blown past
+USA rates.
+
+![poly](figures/20210419.png?raw=true "19 April, 2021")
+
 ## Apr 12, 2021
 
 USA: 779 deaths/day. (5 week fit is still trending down, but short
