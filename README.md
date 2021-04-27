@@ -3,6 +3,17 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Weekly Plots
 
+## Apr 26, 2021
+
+USA: 635 deaths/day. Passed 570k deaths, 580k on May 9, 590k on June
+10.  Brazil is on pace for 400k total deaths in about 3 days.  India
+is on pace to reach 200k deaths in about a day, and pass Mexico in
+about 8-9 days.  India's rate of increase is alarming, especially in
+light of news reports that cases are breaking records this past week
+(meaning record deaths in a couple weeks.)
+
+![poly](figures/20210426.png?raw=true "26 April, 2021")
+
 ## Apr 19, 2021
 
 USA: 746 deaths/day. 570k deaths on April 22, 580k on May 7, 590k on
