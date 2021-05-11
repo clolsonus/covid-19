@@ -3,12 +3,19 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Weekly Plots
 
+## May 10, 2021
+
+USA: 604 deaths/day. Passed 580k deaths, 590k on May 24, 600k June 14,
+610k on July 16.  India is on pace to reach 300k deaths in about 10
+days.  India's continues it's alarming upwards trajectory.
+
+![poly](figures/20210510.png?raw=true "10 May, 2021")
+
 ## May 3, 2021
 
-USA: 568 deaths/day. 580k on May 8, 590k on June 6.  India is on pace
-to reach 200k deaths in about a day, and pass Mexico in about 8-9
-days.  India's just passed Mexico in total number of deaths and it
-still on a steep upwards trajectory.
+USA: 568 deaths/day. 580k on May 8, 590k on June 6.  India's just
+passed Mexico in total number of deaths and it still on a steep
+upwards trajectory.
 
 ![poly](figures/20210503.png?raw=true "5 May, 2021")
 
