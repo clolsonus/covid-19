@@ -3,6 +3,14 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Weekly Plots
 
+## May 17, 2021
+
+USA: 581 deaths/day. 590k on May 23, 600k June 12, 610k on July 8,
+620k on Aug 29.  India is on pace to reach 300k deaths in about 4
+days.
+
+![poly](figures/20210517.png?raw=true "17 May, 2021")
+
 ## May 10, 2021
 
 USA: 604 deaths/day. Passed 580k deaths, 590k on May 24, 600k June 14,
