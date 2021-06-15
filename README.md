@@ -3,6 +3,15 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Weekly Plots
 
+## Jun 14, 2021
+
+USA: 340 deaths/day. 600k on June 15. India's pace took a sharp
+deflection upwards.  Brazil on pace to pass 500k deaths in about 6-7
+days.  Discontinuities in Mexico's data causes the fit to over
+estimate their future numbers.
+
+![poly](figures/20210614.png?raw=true "14 June, 2021")
+
 ## Jun 7, 2021
 
 USA: 481 deaths/day. 600k on June 11, 610k on July 6, 620k on Aug
