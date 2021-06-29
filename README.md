@@ -3,9 +3,17 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Weekly Plots
 
+## Jun 28, 2021
+
+USA: 203 deaths/day and holding in the 200-300 range. India's pace is
+trending down again.  Brazil is still running at about 2000 deaths/day
+and trending slightly upwards still.
+
+![poly](figures/20210628.png?raw=true "28 June, 2021")
+
 ## Jun 21, 2021
 
-USA: 207 deaths/day and continueing to plummet, but passed 600k
+USA: 207 deaths/day and continuing to plummet, but passed 600k
 deaths. India's pace took a sharp deflection upwards.  Brazil passed
 500k deaths and is showing upwards acceleration again.
 
