@@ -3,6 +3,14 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Weekly Plots
 
+## Jul 12, 2021
+
+USA: 189 deaths/day, but the 7 day rolling average is up to 261/day.
+Estimating the USA will reach 610k deaths at the end of July..  Brazil
+on pace to reach 540k deaths in 5 days, 550k in about 17 days.
+
+![poly](figures/20210712.png?raw=true "12 July, 2021")
+
 ## Jul 5, 2021
 
 USA: 196 deaths/day and holding around the 200 range. India's pace is
