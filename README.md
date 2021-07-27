@@ -3,6 +3,13 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Weekly Plots
 
+## Jul 26, 2021
+
+USA: 257 deaths/day and inching back up.  USA will reach 620k deaths
+on Aug 28, 630k deaths by Oct 2?
+
+![poly](figures/20210726.png?raw=true "26 July, 2021")
+
 ## Jul 19, 2021
 
 USA: 216 deaths/day, but the 7 day rolling average is still around
