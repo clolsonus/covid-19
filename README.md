@@ -3,6 +3,13 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Weekly Plots
 
+## Aug 2, 2021
+
+USA: 344 deaths/day and continuing to climb.  USA will reach 620k deaths
+on Aug 19, 630k deaths by Sep 10?
+
+![poly](figures/20210802.png?raw=true "2 August, 2021")
+
 ## Jul 26, 2021
 
 USA: 257 deaths/day and inching back up.  USA will reach 620k deaths
