@@ -3,6 +3,15 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Weekly Plots
 
+## Aug 16, 2021
+
+USA: 705 deaths/day and continuing to climb exponentially.  The USA
+will reach 630k deaths by Aug 26.  On pace for 640k by Sept 6, and
+650k by Sept 15.  Brazil is passing 570k total deaths, but their
+trajectory is diminishing.
+
+![poly](figures/20210816.png?raw=true "16 August, 2021")
+
 ## Aug 9, 2021
 
 USA: around 500 deaths/day and continuing to climb.  USA will reach 620k deaths
