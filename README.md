@@ -3,6 +3,14 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Weekly Plots
 
+## Sep 13, 2021
+
+USA: 1861 deaths/day and continuing to climb.  The USA will reach 670k
+deaths by Sept 17 and 680k deaths by Sept 22.  On pace for 690k by Sept
+27, and 700k by Oct 1.
+
+![poly](figures/20210913.png?raw=true "13 September, 2021")
+
 ## Sep 6, 2021
 
 USA: 1731 deaths/day and continuing to climb exponentially.  The USA
