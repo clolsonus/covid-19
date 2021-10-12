@@ -3,6 +3,15 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Weekly Plots
 
+## Oct 11, 2021
+
+USA: 1620 deaths/day (1540/day 7-day moving average) and continuing to
+drop.  The USA will reach 720k deaths on Oct 14 and 730k deaths on Oct
+21.  On pace for 740k by Oct 28 and 750k by Nov 4?
+
+![poly](figures/20211011.png?raw=true "11 October, 2021")
+
+
 ## Oct 4, 2021
 
 USA: 2044 deaths/day (1836/day 7-day moving average) and showing clear
@@ -10,7 +19,7 @@ signs we have peaked.  The USA will reach 710k deaths by Oct 7 and
 720k deaths on Oct 12.  On pace for 730k by Oct 16 and 740k by Oct 21.
 750k by Oct 25?
 
-![poly](figures/20211004.png?raw=true "10 October, 2021")
+![poly](figures/20211004.png?raw=true "4 October, 2021")
 
 ## Sep 27, 2021
 
