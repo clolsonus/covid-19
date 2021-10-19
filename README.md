@@ -7,7 +7,7 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 USA: 1367 deaths/day and continuing to drop.  The USA will reach 730k
 deaths on Oct 21 and 740k deaths by Oct 29.  On pace for 750k by Nov 9
-and 760k by Nov 25? (Notice that when these longer range forecasts get
+and 760k by Nov 25? Notice that when these longer range forecasts get
 pushed out further (or in come cases pushed closer sooner), it's a
 sign of exponential decay (or growth.)  Good when the numbers are
 going down (like now) but bad when they are going up.
