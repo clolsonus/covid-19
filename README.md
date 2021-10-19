@@ -3,6 +3,17 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Weekly Plots
 
+## Oct 18, 2021
+
+USA: 1367 deaths/day and continuing to drop.  The USA will reach 730k
+deaths on Oct 21 and 740k deaths by Oct 29.  On pace for 750k by Nov 9
+and 760k by Nov 25? (Notice that when these longer range forecasts get
+pushed out further (or in come cases pushed closer sooner), it's a
+sign of exponential decay (or growth.)  Good when the numbers are
+going down (like now) but bad when they are going up.
+
+![poly](figures/20211018.png?raw=true "18 October, 2021")
+
 ## Oct 11, 2021
 
 USA: 1620 deaths/day (1540/day 7-day moving average) and continuing to
@@ -10,7 +21,6 @@ drop.  The USA will reach 720k deaths on Oct 14 and 730k deaths on Oct
 21.  On pace for 740k by Oct 28 and 750k by Nov 4?
 
 ![poly](figures/20211011.png?raw=true "11 October, 2021")
-
 
 ## Oct 4, 2021
 
