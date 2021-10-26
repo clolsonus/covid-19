@@ -3,6 +3,15 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Weekly Plots
 
+## Oct 25, 2021
+
+USA: 1420 deaths/day (bumping up a bit from last week) but the overall
+trend is still towards diminishing.  The USA will reach 740k deaths on
+Oct 27 and 750k deaths by Nov 3.  On pace for 760k by Nov 12 and 770k
+by Nov 21?
+
+![poly](figures/20211025.png?raw=true "25 October, 2021")
+
 ## Oct 18, 2021
 
 USA: 1367 deaths/day and continuing to drop.  The USA will reach 730k
