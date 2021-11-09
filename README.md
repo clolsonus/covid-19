@@ -3,11 +3,17 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Weekly Plots
 
+## Nov 8, 2021
+
+USA: 1024 deaths/day. The USA will reach 760k deaths on Nov 12 and
+770k deaths by Nov 27.
+
+![poly](figures/20211108.png?raw=true "8 November, 2021")
+
 ## Nov 1, 2021
 
-USA: 1341 deaths/day. The USA will reach 750k deaths on
-Nov 3 and 760k deaths by Nov 1.  On pace for 770k by Nov 19 and 780k
-by Nov 29?
+USA: 1341 deaths/day. The USA will reach 750k deaths on Nov 3 and 760k
+deaths by Nov 11.  On pace for 770k by Nov 19 and 780k by Nov 29?
 
 ![poly](figures/20211101.png?raw=true "1 November, 2021")
 
