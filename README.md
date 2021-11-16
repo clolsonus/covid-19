@@ -3,6 +3,13 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Weekly Plots
 
+## Nov 15, 2021
+
+USA: 915 deaths/day (but 1247 for the 7 day running average.) The USA
+will reach 770k deaths on Nov 23 and 770k deaths by Dec 12.
+
+![poly](figures/20211115.png?raw=true "15 November, 2021")
+
 ## Nov 8, 2021
 
 USA: 1024 deaths/day. The USA will reach 760k deaths on Nov 12 and
