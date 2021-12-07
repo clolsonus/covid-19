@@ -3,6 +3,14 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Weekly Plots
 
+## Dec 6, 2021
+
+USA: 1164 deaths/day (but 1592/day for the last week.)  The USA will
+reach 790k deaths on Dec 7 and 800k deaths by Dec 16, 810k by Dec
+24. 820k by Jan 1? 830k by Jan 9?
+
+![poly](figures/20211206.png?raw=true "6 December, 2021")
+
 ## Nov 29, 2021
 
 USA: 856 deaths/day (but factor in lower holiday reported numbers.)
