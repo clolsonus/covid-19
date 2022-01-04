@@ -25,6 +25,8 @@ addition to the totals plot.  I will leave you with that.
 
 ![poly](figures/20220103.png?raw=true "3 January, 2022")
 
+![poly](figures/20220103-total.png?raw=true "3 January, 2022")
+
 Maybe 2022 will be the year where the pandemic mostly burns itself
 out, the variants become weaker, and our collective immune systems
 learn to deal with the virus effectively.  Everyone wants to get back
