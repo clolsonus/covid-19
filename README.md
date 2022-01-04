@@ -23,8 +23,10 @@ experiment.
 Over the holidays I added a new daily plot (predict-daily.py) in
 addition to the totals plot.  I will leave you with that.
 
+Daily:
 ![poly](figures/20220103.png?raw=true "3 January, 2022")
 
+Cumulative:
 ![poly](figures/20220103-total.png?raw=true "3 January, 2022")
 
 Maybe 2022 will be the year where the pandemic mostly burns itself
