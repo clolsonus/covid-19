@@ -3,7 +3,7 @@ plots: https://github.com/clolsonus/covid-19/blob/master/FAQ.md
 
 # Weekly Plots
 
-## Jan 4, 2001
+## Jan 4, 2022
 
 I have been updating this page weekly since the end of April 2020 (for
 about 20 months.)  I originally created these plots so some of my
