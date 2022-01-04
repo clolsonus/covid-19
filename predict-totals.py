@@ -108,7 +108,7 @@ def derivative(fit, x):
 
 #%%
 #regionList = ['Mexico', 'Italy', 'Peru', 'US', 'France', 'United Kingdom', 'India', 'Brazil']
-regionList = ['US', 'Brazil']
+regionList = ['US']
 colorList = ['blue', 'red', 'magenta', 'green', 'orange', 'purple', 'gray', 'black']
 param = 'Deaths' # Deaths, Confirmed, Recovered
 
