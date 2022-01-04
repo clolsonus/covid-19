@@ -13,8 +13,8 @@ a lot of people realize this is a concerning matter and those that
 don't aren't my job to fix.  Numbers are funny and we can look at them
 many different ways.  Sometimes we can see the story we want to see,
 sometimes we don't see what we like and we can quickly move on.
-Sometimes it's good to just look at them and and let them soak in a
-bit and maybe improve our overall perspective a bit.
+Sometimes it's good to just look at them and and let them soak in and
+maybe improve our overall perspective a bit.
 
 As of today, the scripts still work and you can run them yourself, add
 different countries, change date ranges, etc. if you want to
@@ -25,7 +25,7 @@ addition to the totals plot.  I will leave you with that.
 
 ![poly](figures/20220103.png?raw=true "3 January, 2022")
 
-Maybe 2020 will be the year where the pandemic mostly burns itself
+Maybe 2022 will be the year where the pandemic mostly burns itself
 out, the variants become weaker, and our collective immune systems
 learn to deal with the virus effectively.  Everyone wants to get back
 to normal, everyone wants to be safe.  We shouldn't argue about either
