@@ -4,13 +4,15 @@
 
 From the Johns Hopkins github data page:
 
-    On March 10, 2023, the Johns Hopkins Coronavirus Resource Center ceased its collecting and reporting of global COVID-19 data. For updated cases, deaths, and vaccine data please visit the following sources:
+    On March 10, 2023, the Johns Hopkins Coronavirus Resource Center ceased its collecting
+    and reporting of global COVID-19 data. For updated cases, deaths, and vaccine data
+    please visit the following sources:
 
         Global: World Health Organization (WHO)
         U.S.: U.S. Centers for Disease Control and Prevention (CDC)
 
-These scripts leverage this source of public data, so this effectively ends the
-usefulness of these scripts for anything other than examples of how to fit and
+These scripts leverage this source of public data, so this ends the usefulness
+of these scripts for anything other than historic examples of how to fit and
 plot data.
 
 ## FAQs
